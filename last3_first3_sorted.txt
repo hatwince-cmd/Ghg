@@ -1,0 +1,3051 @@
+24911 ing -- 250 ing    Can add s
+12511 ess -- 92 ess
+9401 ses -- 137 ses    Can add s
+9375 ion -- 80 ion    Can add s
+9020 ers -- 11 ers
+7398 ous -- 14 ous
+6251 ted -- 31 ted    Can add s
+5896 ble -- 300 ble
+5779 ons -- 25 ons
+5606 ate -- 55 ate    Can add s
+5046 tic -- 116 tic    Can add s
+4269 ity -- 3 ity    Can add s
+4263 tes -- 205 tes    Can add s
+4226 ism -- 24 ism    Can add s
+4152 ist -- 32 ist
+3786 ent -- 734 ent    Can add s
+3630 ite -- 51 ite
+3616 cal -- 1023 cal    Can add s
+3569 est -- 284 est    Can add s
+3476 ter -- 639 ter
+3382 ine -- 402 ine    Can add s
+3046 ive -- 4 ive    Can add s
+3045 ian -- 6 ian
+2729 led -- 34 led    Can add s
+2670 les -- 84 les    Can add s
+2635 sed -- 120 sed
+2564 red -- 818 red    Can add s
+2528 sis -- 92 sis    Can add s
+2480 nes -- 77 nes    Can add s
+2108 ely -- 39 ely
+2008 zed -- 8 zed    Can add s
+1999 ise -- 21 ise
+1967 ned -- 12 ned    Can add s
+1908 gly -- 217 gly
+1886 ish -- 15 ish
+1791 nic -- 187 nic
+1768 nal -- 19 nal
+1708 man -- 1106 man    Can add s
+1696 oid -- 6 oid
+1694 ike -- 5 ike
+1653 res -- 1591 res
+1649 ces -- 94 ces    Can add s
+1626 ant -- 3164 ant    Can add s
+1617 tor -- 449 tor    Can add s
+1616 sly -- 10 sly
+1613 ins -- 973 ins
+1576 ans -- 57 ans
+1516 hes -- 85 hes    Can add s
+1500 dae -- 30 dae    Can add s
+1481 zes -- 17 zes
+1433 ors -- 14 ors
+1427 bly -- 4 bly
+1398 ric -- 170 ric
+1388 ary -- 43 ary
+1387 ded -- 105 ded
+1276 ral -- 38 ral    Can add s
+1272 lar -- 316 lar    Can add s
+1266 des -- 977 des    Can add s
+1230 der -- 504 der
+1221 age -- 86 age    Can add s
+1220 ler -- 25 ler
+1207 one -- 71 one    Can add s
+1204 als -- 26 als
+1203 ory -- 29 ory
+1191 ide -- 165 ide    Can add s
+1178 hed -- 88 hed
+1163 hip -- 213 hip    Can add s
+1159 ker -- 263 ker    Can add s
+1106 men -- 440 men    Can add s
+1089 ria -- 15 ria    Can add s
+1078 ked -- 22 ked    Can add s
+1066 ful -- 185 ful    Can add s
+1065 tal -- 342 tal
+1064 ges -- 104 ges    Can add s
+1054 ily -- 6 ily
+1046 tis -- 31 tis
+1043 ery -- 152 ery
+1034 mic -- 1235 mic    Can add s
+1018 ard -- 54 ard    Can add s
+999 orm -- 11 orm
+996 hic -- 47 hic    Can add s
+970 ure -- 192 ure    Can add s
+963 ums -- 3 ums
+937 nia -- 22 nia    Can add s
+928 ged -- 21 ged    Can add s
+921 ner -- 119 ner
+912 ose -- 7 ose    Can add s
+909 her -- 650 her    Can add s
+898 lic -- 151 lic
+858 ger -- 315 ger    Can add s
+835 ped -- 367 ped    Can add s
+834 ens -- 258 ens
+818 ves -- 210 ves
+809 ome -- 33 ome
+742 rus -- 198 rus    Can add s
+725 ean -- 6 ean    Can add s
+724 ene -- 80 ene    Can add s
+719 med -- 401 med    Can add s
+717 rer -- 134 rer
+715 phy -- 706 phy    Can add s
+712 try -- 88 try
+705 ser -- 814 ser    Can add s
+701 ile -- 26 ile
+692 els -- 22 els
+662 and -- 214 and    Can add s
+653 ars -- 119 ars
+652 mes -- 648 mes    Can add s
+640 ore -- 78 ore    Can add s
+637 sia -- 66 sia
+635 let -- 118 let    Can add s
+618 ced -- 45 ced
+607 per -- 2476 per    Can add s
+605 ata -- 81 ata
+589 ead -- 6 ead
+584 mia -- 52 mia    Can add s
+579 ips -- 15 ips
+577 dal -- 92 dal    Can add s
+577 lia -- 37 lia    Can add s
+567 ane -- 204 ane    Can add s
+544 eal -- 7 eal
+537 ock -- 11 ock
+532 ron -- 117 ron
+528 ast -- 483 ast
+524 ack -- 29 ack
+524 oma -- 23 oma    Can add s
+518 ole -- 104 ole    Can add s
+518 lla -- 12 lla
+517 ope -- 163 ope    Can add s
+505 ton -- 244 ton    Can add s
+498 ads -- 50 ads
+491 zer -- 23 zer
+490 tte -- 8 tte
+488 ase -- 57 ase
+488 use -- 30 use    Can add s
+485 its -- 5 its
+483 pes -- 115 pes    Can add s
+482 las -- 119 las    Can add s
+477 ort -- 366 ort    Can add s
+475 pic -- 430 pic    Can add s
+475 ots -- 3 ots
+474 ver -- 799 ver    Can add s
+474 lus -- 112 lus
+469 mer -- 538 mer    Can add s
+463 ras -- 146 ras
+462 ved -- 30 ved
+460 aph -- 195 aph
+460 ere -- 76 ere    Can add s
+453 dom -- 171 dom    Can add s
+434 oof -- 10 oof    Can add s
+432 ods -- 3 ods
+425 are -- 160 are    Can add s
+418 mal -- 733 mal    Can add s
+417 lin -- 463 lin    Can add s
+412 ina -- 309 ina
+408 gia -- 34 gia
+408 ams -- 9 ams
+403 all -- 713 all    Can add s
+402 rin -- 158 rin    Can add s
+400 bia -- 75 bia    Can add s
+398 mas -- 533 mas    Can add s
+398 ire -- 29 ire    Can add s
+395 nas -- 143 nas
+391 wer -- 68 wer
+390 kes -- 15 kes
+388 ick -- 14 ick    Can add s
+386 ain -- 16 ain    Can add s
+384 bed -- 398 bed    Can add s
+382 ade -- 212 ade
+381 ula -- 9 ula
+380 sal -- 748 sal    Can add s
+376 ops -- 51 ops
+375 oes -- 45 oes
+373 que -- 357 que    Can add s
+370 wed -- 49 wed    Can add s
+363 urs -- 23 urs
+359 tus -- 82 tus
+357 tas -- 148 tas    Can add s
+352 ris -- 83 ris    Can add s
+345 dic -- 377 dic
+344 ram -- 273 ram    Can add s
+343 ork -- 6 ork
+340 und -- 3005 und
+339 son -- 214 son    Can add s
+339 ell -- 53 ell    Can add s
+339 ail -- 52 ail    Can add s
+337 ill -- 329 ill    Can add s
+334 oot -- 13 oot    Can add s
+325 ten -- 569 ten    Can add s
+325 ber -- 373 ber
+325 yed -- 6 yed
+324 ace -- 326 ace    Can add s
+323 ule -- 12 ule    Can add s
+322 dia -- 859 dia    Can add s
+322 tch -- 30 tch
+322 nae -- 21 nae    Can add s
+319 lis -- 113 lis    Can add s
+318 ana -- 814 ana    Can add s
+317 tin -- 303 tin    Can add s
+317 era -- 56 era    Can add s
+317 ote -- 3 ote
+316 ice -- 76 ice    Can add s
+312 lum -- 170 lum    Can add s
+308 way -- 89 way    Can add s
+304 tia -- 21 tia
+300 ale -- 222 ale    Can add s
+298 ith -- 18 ith
+297 thy -- 234 thy
+296 ows -- 4 ows
+290 ake -- 31 ake    Can add s
+287 hia -- 9 hia
+282 che -- 1044 che
+281 gen -- 542 gen    Can add s
+280 lle -- 4 lle
+278 acy -- 30 acy
+272 ass -- 511 ass    Can add s
+271 den -- 563 den    Can add s
+271 ang -- 485 ang
+271 kin -- 348 kin    Can add s
+269 ony -- 54 ony
+268 cus -- 171 cus    Can add s
+267 int -- 3324 int    Can add s
+266 ele -- 804 ele
+266 ect -- 180 ect
+265 een -- 4 een
+262 out -- 2360 out    Can add s
+261 ush -- 25 ush
+260 eer -- 10 eer
+259 end -- 680 end    Can add s
+259 orn -- 144 orn
+258 ros -- 256 ros    Can add s
+257 tum -- 148 tum    Can add s
+256 ear -- 241 ear    Can add s
+256 nus -- 4 nus
+254 iac -- 5 iac
+253 gue -- 108 gue    Can add s
+253 tos -- 71 tos    Can add s
+253 own -- 16 own    Can add s
+252 gle -- 134 gle
+251 sty -- 210 sty
+251 fed -- 62 fed    Can add s
+250 ran -- 323 ran    Can add s
+249 ete -- 49 ete
+249 ese -- 13 ese    Can add s
+247 chy -- 92 chy
+247 rie -- 25 rie    Can add s
+246 mus -- 492 mus    Can add s
+246 hus -- 110 hus    Can add s
+244 rum -- 184 rum    Can add s
+244 ute -- 52 ute    Can add s
+244 oon -- 5 oon    Can add s
+243 ave -- 135 ave    Can add s
+243 net -- 119 net    Can add s
+240 cle -- 363 cle
+239 ara -- 275 ara
+239 ont -- 36 ont
+238 ree -- 462 ree    Can add s
+236 ong -- 10 ong
+234 ple -- 576 ple
+234 rid -- 107 rid    Can add s
+233 tan -- 399 tan    Can add s
+230 cer -- 523 cer
+229 lae -- 52 lae
+228 old -- 37 old    Can add s
+228 uls -- 12 uls
+226 ach -- 241 ach
+226 our -- 31 our    Can add s
+225 fer -- 452 fer    Can add s
+225 lon -- 248 lon
+224 sin -- 453 sin    Can add s
+223 ken -- 119 ken    Can add s
+223 nin -- 85 nin
+222 don -- 174 don    Can add s
+222 ord -- 90 ord    Can add s
+221 ook -- 3 ook
+220 sic -- 145 sic    Can add s
+220 ash -- 112 ash
+220 ein -- 14 ein
+218 art -- 415 art    Can add s
+218 ost -- 358 ost
+216 ora -- 140 ora    Can add s
+213 yer -- 29 yer
+213 ime -- 4 ime
+211 can -- 1001 can    Can add s
+211 bes -- 546 bes    Can add s
+211 low -- 135 low    Can add s
+208 bic -- 164 bic
+203 hal -- 505 hal    Can add s
+203 nis -- 30 nis
+199 ark -- 18 ark    Can add s
+196 oth -- 54 oth
+196 los -- 47 los    Can add s
+195 ode -- 18 ode    Can add s
+194 ola -- 10 ola
+193 nos -- 170 nos
+192 aps -- 18 aps
+192 ley -- 11 ley    Can add s
+190 ame -- 220 ame    Can add s
+190 ert -- 5 ert
+189 dea -- 393 dea    Can add s
+188 eus -- 38 eus
+187 min -- 634 min    Can add s
+187 oed -- 21 oed
+186 eas -- 88 eas
+185 aft -- 234 aft
+183 pus -- 125 pus    Can add s
+183 eat -- 24 eat    Can add s
+182 ura -- 152 ura
+182 oat -- 28 oat    Can add s
+182 oom -- 24 oom    Can add s
+182 ica -- 9 ica
+180 tee -- 131 tee    Can add s
+178 ino -- 178 ino
+178 ety -- 35 ety
+177 dos -- 71 dos    Can add s
+175 ret -- 957 ret    Can add s
+173 val -- 302 val
+172 gal -- 706 gal    Can add s
+171 sor -- 286 sor
+171 ath -- 182 ath
+171 kle -- 57 kle
+170 ari -- 216 ari    Can add s
+170 cia -- 6 cia
+169 rix -- 4 rix
+166 hen -- 147 hen    Can add s
+165 lid -- 24 lid    Can add s
+163 cin -- 242 cin
+162 lan -- 522 lan
+162 eur -- 201 eur
+162 eld -- 45 eld    Can add s
+160 ket -- 118 ket    Can add s
+160 ern -- 11 ern    Can add s
+159 han -- 498 han    Can add s
+159 ups -- 218 ups
+159 has -- 130 has    Can add s
+159 oke -- 14 oke    Can add s
+159 aks -- 4 aks
+158 din -- 204 din    Can add s
+158 ema -- 86 ema
+158 tie -- 57 tie    Can add s
+158 ida -- 11 ida
+157 fic -- 99 fic
+155 con -- 3949 con    Can add s
+155 ala -- 190 ala    Can add s
+153 his -- 260 his    Can add s
+152 gan -- 247 gan    Can add s
+152 nid -- 78 nid    Can add s
+151 ove -- 4907 ove
+151 yle -- 4 yle
+151 aws -- 3 aws
+150 eck -- 4 eck
+149 ini -- 109 ini
+148 sus -- 198 sus    Can add s
+148 ags -- 3 ags
+147 ena -- 153 ena
+146 gas -- 466 gas    Can add s
+146 nol -- 18 nol
+144 hin -- 138 hin    Can add s
+143 tra -- 2171 tra
+143 tre -- 555 tre    Can add s
+142 act -- 296 act    Can add s
+142 kas -- 51 kas
+141 dan -- 243 dan    Can add s
+141 oos -- 25 oos
+141 asm -- 10 asm
+140 ung -- 608 ung
+140 ero -- 110 ero    Can add s
+139 the -- 1202 the    Can add s
+139 ind -- 994 ind
+139 pin -- 560 pin    Can add s
+139 eme -- 104 eme    Can add s
+139 eon -- 5 eon    Can add s
+138 rel -- 496 rel
+138 pia -- 104 pia    Can add s
+138 das -- 99 das
+138 erm -- 19 erm
+137 cas -- 543 cas    Can add s
+137 num -- 163 num
+137 gos -- 121 gos    Can add s
+137 ust -- 21 ust
+137 ugh -- 3 ugh    Can add s
+136 rol -- 110 rol
+136 oys -- 33 oys
+136 aid -- 26 aid    Can add s
+136 apy -- 11 apy
+135 ven -- 496 ven
+135 ado -- 123 ado    Can add s
+135 obe -- 84 obe    Can add s
+134 set -- 111 set    Can add s
+133 cha -- 1855 cha    Can add s
+133 ste -- 1340 ste
+133 ink -- 78 ink    Can add s
+133 ita -- 77 ita    Can add s
+133 ank -- 66 ank
+133 kie -- 35 kie
+132 tid -- 99 tid    Can add s
+131 pal -- 1196 pal    Can add s
+130 pod -- 210 pod    Can add s
+130 lie -- 95 lie    Can add s
+129 bar -- 1038 bar    Can add s
+129 hea -- 611 hea
+129 ham -- 222 ham    Can add s
+129 die -- 165 die    Can add s
+128 unt -- 1006 unt
+128 lot -- 61 lot    Can add s
+126 nie -- 39 nie    Can add s
+125 ada -- 124 ada
+124 sel -- 276 sel    Can add s
+124 eel -- 35 eel    Can add s
+124 eum -- 32 eum
+124 ool -- 25 ool
+123 cos -- 426 cos    Can add s
+123 row -- 79 row    Can add s
+123 nel -- 16 nel
+122 tae -- 53 tae    Can add s
+122 nga -- 10 nga
+121 tar -- 526 tar    Can add s
+120 ody -- 16 ody
+119 mos -- 170 mos    Can add s
+119 ape -- 83 ape    Can add s
+118 cid -- 22 cid    Can add s
+117 hon -- 216 hon    Can add s
+117 eve -- 188 eve    Can add s
+117 ich -- 173 ich    Can add s
+116 rat -- 323 rat    Can add s
+116 air -- 256 air    Can add s
+116 ama -- 246 ama    Can add s
+116 ona -- 15 ona
+115 ais -- 19 ais
+115 ati -- 19 ati    Can add s
+114 non -- 8225 non
+114 mon -- 1694 mon    Can add s
+114 oil -- 78 oil    Can add s
+114 eps -- 8 eps
+114 xin -- 8 xin
+113 ani -- 324 ani    Can add s
+112 hos -- 143 hos    Can add s
+112 lay -- 75 lay    Can add s
+112 gus -- 73 gus    Can add s
+112 ece -- 3 ece
+111 bas -- 514 bas    Can add s
+111 aly -- 14 aly
+111 rae -- 5 rae
+110 gon -- 243 gon    Can add s
+109 eth -- 391 eth    Can add s
+109 bus -- 246 bus    Can add s
+109 uli -- 13 uli
+108 amy -- 135 amy
+108 oll -- 17 oll
+108 tys -- 5 tys
+107 sen -- 419 sen    Can add s
+107 dar -- 255 dar
+107 uit -- 5 uit
+106 key -- 95 key    Can add s
+105 sta -- 1434 sta
+105 pot -- 342 pot    Can add s
+105 cic -- 116 cic
+104 san -- 638 san    Can add s
+104 bin -- 154 bin    Can add s
+104 urn -- 17 urn    Can add s
+102 pen -- 886 pen    Can add s
+102 dra -- 535 dra
+102 box -- 65 box
+101 ult -- 437 ult
+101 ano -- 305 ano
+101 nar -- 227 nar
+101 vel -- 181 vel
+101 ond -- 21 ond
+100 mis -- 2424 mis    Can add s
+100 ato -- 99 ato
+100 boy -- 65 boy    Can add s
+100 eta -- 35 eta    Can add s
+99 ali -- 233 ali
+99 ray -- 37 ray    Can add s
+99 any -- 34 any
+99 aea -- 4 aea
+98 chi -- 1133 chi    Can add s
+97 sie -- 65 sie    Can add s
+97 ims -- 5 ims
+96 yes -- 48 yes
+95 sas -- 82 sas    Can add s
+95 eic -- 6 eic
+94 dor -- 262 dor    Can add s
+94 ela -- 187 ela
+94 bos -- 142 bos    Can add s
+94 dus -- 98 dus
+94 ipe -- 5 ipe
+94 eau -- 3 eau    Can add s
+92 uns -- 2655 uns
+92 une -- 1004 une
+92 nee -- 114 nee
+92 oss -- 78 oss
+92 oda -- 22 oda    Can add s
+92 ume -- 5 ume    Can add s
+91 off -- 204 off    Can add s
+91 bit -- 203 bit    Can add s
+91 dry -- 86 dry    Can add s
+91 ull -- 16 ull
+90 pas -- 488 pas    Can add s
+90 cum -- 136 cum    Can add s
+90 hot -- 126 hot    Can add s
+90 yan -- 51 yan
+89 lee -- 88 lee    Can add s
+89 nyl -- 9 nyl
+88 mid -- 266 mid    Can add s
+88 fly -- 122 fly
+88 aus -- 119 aus
+88 ign -- 103 ign
+88 kis -- 72 kis    Can add s
+87 bal -- 710 bal    Can add s
+87 lor -- 132 lor    Can add s
+87 oin -- 20 oin
+86 pan -- 1017 pan    Can add s
+86 amp -- 434 amp    Can add s
+86 lex -- 65 lex
+86 gie -- 13 gie    Can add s
+85 top -- 278 top    Can add s
+84 tol -- 179 tol
+84 ply -- 18 ply
+84 iny -- 5 iny
+84 oan -- 3 oan
+83 hil -- 115 hil
+83 elt -- 8 elt    Can add s
+82 het -- 522 het    Can add s
+82 mit -- 162 mit    Can add s
+82 ima -- 91 ima
+82 nea -- 89 nea
+82 rit -- 83 rit    Can add s
+82 xia -- 11 xia
+82 ito -- 10 ito
+82 ugs -- 5 ugs
+81 ump -- 33 ump    Can add s
+80 tel -- 758 tel    Can add s
+80 rap -- 162 rap    Can add s
+80 och -- 76 och    Can add s
+80 sey -- 12 sey    Can add s
+80 yal -- 11 yal
+80 ept -- 6 ept
+79 mel -- 589 mel    Can add s
+79 dum -- 148 dum
+79 hee -- 69 hee    Can add s
+79 ede -- 32 ede
+79 arp -- 22 arp
+79 awn -- 13 awn    Can add s
+78 dis -- 4031 dis    Can add s
+78 una -- 1315 una
+78 fle -- 321 fle
+77 psy -- 405 psy
+77 gar -- 401 gar    Can add s
+77 aff -- 312 aff
+77 abs -- 306 abs
+77 pit -- 266 pit    Can add s
+77 ech -- 170 ech
+77 hid -- 64 hid
+77 gee -- 52 gee    Can add s
+76 ori -- 160 ori
+76 hie -- 141 hie    Can add s
+76 hop -- 113 hop    Can add s
+76 sos -- 26 sos    Can add s
+76 yas -- 15 yas
+76 rah -- 14 rah    Can add s
+76 ois -- 5 ois
+75 arm -- 185 arm    Can add s
+75 see -- 165 see    Can add s
+75 alk -- 147 alk
+74 tha -- 354 tha
+74 sma -- 171 sma
+74 gin -- 141 gin    Can add s
+74 aed -- 22 aed
+74 shy -- 20 shy
+74 ibe -- 13 ibe
+74 lah -- 13 lah    Can add s
+74 osa -- 7 osa
+73 pis -- 201 pis    Can add s
+73 vas -- 187 vas
+73 len -- 184 len    Can add s
+73 kos -- 29 kos    Can add s
+72 ban -- 553 ban    Can add s
+72 oli -- 201 oli
+72 nan -- 174 nan    Can add s
+72 day -- 124 day    Can add s
+72 oni -- 32 oni
+72 eca -- 15 eca
+72 oer -- 6 oer
+71 pie -- 185 pie    Can add s
+71 nut -- 131 nut    Can add s
+71 agy -- 11 agy
+71 cht -- 5 cht
+71 esh -- 3 esh
+71 tio -- 3 tio
+70 rea -- 958 rea
+70 fin -- 343 fin    Can add s
+70 aur -- 166 aur
+70 rew -- 160 rew    Can add s
+70 unk -- 128 unk
+70 via -- 50 via    Can add s
+70 ota -- 26 ota
+70 ict -- 25 ict
+70 aze -- 21 aze
+70 iss -- 20 iss
+70 ngo -- 5 ngo
+69 tyl -- 44 tyl
+69 ira -- 38 ira    Can add s
+69 yon -- 23 yon
+68 hel -- 540 hel
+68 nor -- 288 nor
+68 aga -- 174 aga    Can add s
+68 get -- 42 get    Can add s
+68 aka -- 33 aka    Can add s
+67 har -- 712 har
+67 lea -- 371 lea    Can add s
+67 uri -- 80 uri
+67 asy -- 70 asy
+67 rop -- 49 rop
+67 pid -- 33 pid
+67 iff -- 7 iff
+66 del -- 528 del    Can add s
+66 obs -- 244 obs
+66 cea -- 22 cea    Can add s
+66 ila -- 3 ila
+65 shi -- 618 shi
+65 lit -- 492 lit    Can add s
+65 ren -- 387 ren    Can add s
+65 lop -- 88 lop    Can add s
+65 zas -- 3 zas
+64 cap -- 612 cap    Can add s
+64 tat -- 126 tat    Can add s
+64 ico -- 111 ico
+64 zen -- 39 zen    Can add s
+64 eid -- 22 eid
+64 ett -- 12 ett
+64 osh -- 10 osh
+63 pos -- 1103 pos    Can add s
+63 sky -- 142 sky    Can add s
+63 aux -- 61 aux
+63 oop -- 53 oop    Can add s
+62 pha -- 664 pha
+62 rad -- 492 rad    Can add s
+62 lip -- 210 lip    Can add s
+62 ava -- 81 ava    Can add s
+62 oly -- 24 oly
+62 ait -- 20 ait    Can add s
+62 uss -- 5 uss
+61 sol -- 618 sol    Can add s
+61 aca -- 246 aca
+61 log -- 223 log    Can add s
+61 alt -- 188 alt    Can add s
+61 eye -- 158 eye    Can add s
+61 owl -- 24 owl    Can add s
+60 cho -- 933 cho
+60 bel -- 493 bel    Can add s
+60 vin -- 248 vin    Can add s
+60 eri -- 94 eri    Can add s
+60 mum -- 90 mum    Can add s
+60 ago -- 83 ago    Can add s
+60 rim -- 63 rim    Can add s
+60 mie -- 14 mie    Can add s
+60 uma -- 7 uma
+59 car -- 1890 car    Can add s
+59 mar -- 1160 mar    Can add s
+59 sid -- 247 sid
+59 wan -- 193 wan    Can add s
+59 bag -- 135 bag    Can add s
+59 fes -- 80 fes    Can add s
+59 ril -- 29 ril
+59 oor -- 11 oor
+59 uin -- 11 uin
+59 ady -- 9 ady
+58 hor -- 500 hor    Can add s
+58 pet -- 440 pet    Can add s
+58 oxy -- 238 oxy
+58 did -- 141 did
+58 sit -- 109 sit    Can add s
+57 bis -- 250 bis
+57 hat -- 146 hat    Can add s
+57 olo -- 27 olo
+57 aya -- 15 aya
+56 sha -- 908 sha
+56 sum -- 204 sum    Can add s
+56 iri -- 139 iri    Can add s
+56 kan -- 131 kan    Can add s
+55 kia -- 16 kia
+55 iot -- 10 iot
+54 cat -- 915 cat    Can add s
+54 pon -- 243 pon    Can add s
+54 omb -- 38 omb
+54 mba -- 7 mba
+53 bra -- 1056 bra    Can add s
+53 rot -- 211 rot    Can add s
+53 dee -- 155 dee    Can add s
+53 ald -- 105 ald
+53 zoa -- 27 zoa
+53 ege -- 16 ege
+53 rey -- 14 rey
+52 aut -- 983 aut
+52 hol -- 419 hol    Can add s
+52 pel -- 318 pel    Can add s
+52 dit -- 152 dit    Can add s
+52 cly -- 44 cly
+52 urt -- 24 urt
+52 oso -- 8 oso
+51 bet -- 269 bet    Can add s
+51 nym -- 62 nym
+51 arn -- 29 arn
+51 rio -- 27 rio
+51 rax -- 4 rax
+50 tur -- 561 tur
+50 van -- 176 van    Can add s
+50 erg -- 107 erg    Can add s
+50 hyl -- 77 hyl
+50 idy -- 21 idy
+50 oup -- 11 oup    Can add s
+49 hae -- 241 hae    Can add s
+49 sle -- 228 sle
+49 gel -- 151 gel    Can add s
+49 gis -- 25 gis
+48 nit -- 235 nit    Can add s
+48 aba -- 163 aba    Can add s
+48 xer -- 102 xer
+48 bie -- 53 bie
+48 iti -- 26 iti
+48 eis -- 21 eis
+48 gne -- 21 gne
+48 urg -- 19 urg
+48 lue -- 6 lue    Can add s
+47 met -- 1300 met    Can add s
+47 tem -- 252 tem    Can add s
+47 lap -- 199 lap    Can add s
+47 sce -- 139 sce    Can add s
+47 aro -- 92 aro    Can add s
+47 imo -- 6 imo
+46 sch -- 804 sch
+46 lat -- 380 lat    Can add s
+46 vis -- 267 vis    Can add s
+46 vic -- 212 vic
+46 cut -- 168 cut    Can add s
+46 zin -- 124 zin    Can add s
+46 rip -- 106 rip    Can add s
+46 how -- 72 how    Can add s
+46 uta -- 12 uta    Can add s
+45 gra -- 1279 gra    Can add s
+45 eng -- 280 eng    Can add s
+45 dog -- 244 dog    Can add s
+45 haw -- 103 haw    Can add s
+45 cae -- 87 cae
+45 fit -- 73 fit    Can add s
+45 aul -- 39 aul
+45 erd -- 6 erd
+45 igo -- 3 igo
+44 sco -- 604 sco
+44 sar -- 399 sar    Can add s
+44 ami -- 251 ami    Can add s
+44 vil -- 170 vil
+44 kit -- 153 kit    Can add s
+44 alo -- 108 alo
+44 lio -- 61 lio
+43 bat -- 441 bat    Can add s
+43 phe -- 341 phe
+43 cot -- 274 cot    Can add s
+43 eno -- 72 eno    Can add s
+43 mae -- 43 mae    Can add s
+43 aty -- 12 aty
+43 iar -- 5 iar
+42 mat -- 540 mat    Can add s
+42 aud -- 127 aud
+42 law -- 104 law    Can add s
+42 vet -- 60 vet    Can add s
+42 ask -- 37 ask    Can add s
+41 cel -- 292 cel    Can add s
+41 tea -- 254 tea    Can add s
+41 tom -- 151 tom    Can add s
+41 rag -- 141 rag    Can add s
+41 fid -- 122 fid    Can add s
+41 saw -- 84 saw    Can add s
+41 apt -- 47 apt    Can add s
+41 kus -- 21 kus
+41 aki -- 20 aki
+41 ube -- 14 ube    Can add s
+41 oud -- 8 oud    Can add s
+40 lam -- 400 lam    Can add s
+40 wel -- 179 wel    Can add s
+40 pee -- 122 pee    Can add s
+40 mys -- 97 mys
+40 aim -- 18 aim    Can add s
+40 oun -- 10 oun
+40 zie -- 7 zie
+40 eit -- 5 eit
+40 eze -- 3 eze
+39 was -- 244 was
+39 kar -- 226 kar
+39 dam -- 201 dam    Can add s
+39 roo -- 195 roo    Can add s
+39 loo -- 160 loo    Can add s
+39 lad -- 137 lad    Can add s
+39 aco -- 118 aco
+39 iro -- 100 iro
+39 apa -- 98 apa
+39 bug -- 80 bug    Can add s
+39 ili -- 51 ili
+39 gid -- 34 gid    Can add s
+39 ror -- 33 ror
+39 iza -- 5 iza
+39 iol -- 3 iol
+38 att -- 386 att
+38 mol -- 287 mol    Can add s
+38 kee -- 105 kee    Can add s
+38 agi -- 69 agi
+38 raw -- 44 raw    Can add s
+38 say -- 31 say    Can add s
+38 zel -- 25 zel    Can add s
+38 nik -- 23 nik
+38 oka -- 14 oka    Can add s
+38 awk -- 10 awk    Can add s
+38 uke -- 4 uke    Can add s
+37 mor -- 659 mor    Can add s
+37 thi -- 531 thi    Can add s
+37 sil -- 426 sil
+37 som -- 298 som    Can add s
+37 not -- 293 not    Can add s
+37 til -- 112 til    Can add s
+37 vid -- 94 vid    Can add s
+37 bid -- 76 bid    Can add s
+37 kon -- 54 kon    Can add s
+37 omi -- 33 omi
+37 nah -- 18 nah
+37 sae -- 16 sae
+37 oul -- 12 oul
+37 eil -- 7 eil
+37 ika -- 7 ika
+37 oze -- 3 oze
+36 sti -- 653 sti
+36 war -- 449 war    Can add s
+36 ski -- 395 ski    Can add s
+36 leg -- 287 leg    Can add s
+36 wit -- 269 wit    Can add s
+36 gun -- 181 gun    Can add s
+36 alm -- 124 alm    Can add s
+36 kel -- 73 kel
+36 aes -- 70 aes
+36 asa -- 34 asa
+36 ecs -- 23 ecs
+36 hoe -- 17 hoe    Can add s
+35 tro -- 698 tro
+35 win -- 557 win    Can add s
+35 bon -- 310 bon    Can add s
+35 gua -- 259 gua
+35 tim -- 213 tim
+35 bow -- 180 bow    Can add s
+35 pad -- 129 pad    Can add s
+35 cup -- 119 cup    Can add s
+35 ido -- 95 ido
+35 eos -- 23 eos
+35 eda -- 20 eda
+35 awl -- 9 awl    Can add s
+35 eux -- 7 eux
+34 pse -- 936 pse
+34 lim -- 317 lim
+34 wal -- 237 wal
+34 bee -- 211 bee    Can add s
+34 dei -- 149 dei    Can add s
+34 oto -- 102 oto
+34 rod -- 77 rod    Can add s
+34 oro -- 76 oro
+34 now -- 40 now    Can add s
+34 zos -- 10 zos
+34 oas -- 9 oas
+33 hem -- 780 hem    Can add s
+33 oph -- 186 oph
+33 wes -- 100 wes
+33 lik -- 56 lik
+33 dah -- 31 dah    Can add s
+32 sca -- 878 sca
+32 cre -- 647 cre    Can add s
+32 rai -- 195 rai    Can add s
+32 cit -- 183 cit    Can add s
+32 hys -- 103 hys
+32 awa -- 78 awa
+32 got -- 60 got
+32 usa -- 20 usa
+32 onk -- 4 onk
+32 zia -- 4 zia
+32 iva -- 3 iva
+31 bre -- 539 bre
+31 bot -- 244 bot    Can add s
+31 adi -- 119 adi
+31 gum -- 94 gum    Can add s
+31 elo -- 83 elo
+31 lys -- 65 lys
+31 zan -- 63 zan
+31 hit -- 62 hit    Can add s
+31 cet -- 58 cet
+31 zar -- 34 zar
+31 tsu -- 30 tsu
+31 lax -- 28 lax
+31 elf -- 26 elf    Can add s
+31 loy -- 23 loy    Can add s
+31 bok -- 22 bok    Can add s
+31 cio -- 12 cio
+31 edo -- 7 edo
+31 erk -- 4 erk    Can add s
+30 dow -- 346 dow    Can add s
+30 bor -- 297 bor    Can add s
+30 dre -- 246 dre
+30 nat -- 216 nat    Can add s
+30 put -- 147 put    Can add s
+30 nam -- 64 nam    Can add s
+30 jas -- 63 jas    Can add s
+30 vie -- 61 vie    Can add s
+30 tep -- 59 tep
+30 nim -- 56 nim    Can add s
+30 vor -- 51 vor    Can add s
+30 bah -- 50 bah    Can add s
+30 ott -- 39 ott
+30 yah -- 21 yah    Can add s
+30 oft -- 17 oft
+30 arl -- 12 arl
+30 oge -- 6 oge
+30 url -- 4 url
+30 vos -- 4 vos
+30 uca -- 3 uca
+29 col -- 1238 col    Can add s
+29 rom -- 181 rom    Can add s
+29 run -- 122 run    Can add s
+29 abe -- 111 abe
+29 zon -- 70 zon
+29 ego -- 61 ego    Can add s
+29 lol -- 53 lol
+29 gey -- 16 gey
+29 eba -- 7 eba
+29 ibs -- 7 ibs
+29 eft -- 5 eft    Can add s
+28 ann -- 270 ann    Can add s
+28 dol -- 254 dol    Can add s
+28 asp -- 247 asp    Can add s
+28 gor -- 201 gor    Can add s
+28 lem -- 99 lem
+28 tah -- 37 tah
+28 omo -- 23 omo
+28 emy -- 11 emy    Can add s
+28 oba -- 11 oba    Can add s
+28 uki -- 3 uki
+28 usk -- 3 usk
+27 qui -- 771 qui    Can add s
+27 var -- 266 var    Can add s
+27 jan -- 102 jan
+27 abi -- 93 abi
+27 dad -- 51 dad    Can add s
+27 uti -- 48 uti    Can add s
+27 kum -- 41 kum
+27 lew -- 31 lew
+27 tay -- 21 tay    Can add s
+27 lix -- 13 lix
+27 nad -- 13 nad    Can add s
+27 afe -- 12 afe
+27 agh -- 9 agh
+27 iga -- 9 iga
+27 aal -- 4 aal    Can add s
+27 quy -- 4 quy
+27 uly -- 4 uly
+27 ssi -- 3 ssi
+26 imp -- 1353 imp    Can add s
+26 gre -- 527 gre    Can add s
+26 cry -- 421 cry
+26 new -- 220 new    Can add s
+26 tow -- 187 tow    Can add s
+26 fen -- 132 fen    Can add s
+26 xyl -- 128 xyl
+26 nai -- 101 nai    Can add s
+26 upt -- 95 upt
+26 lux -- 57 lux
+26 rog -- 42 rog
+26 lom -- 38 lom
+26 kah -- 24 kah
+26 aun -- 22 aun
+26 hew -- 20 hew    Can add s
+26 udo -- 13 udo    Can add s
+26 irk -- 9 irk    Can add s
+26 rex -- 6 rex
+26 oit -- 3 oit
+25 par -- 2406 par    Can add s
+25 sto -- 950 sto
+25 hum -- 394 hum    Can add s
+25 lei -- 104 lei    Can add s
+25 eli -- 99 eli
+25 jet -- 61 jet    Can add s
+25 roi -- 33 roi
+25 eti -- 30 eti
+25 him -- 29 him    Can add s
+25 hua -- 28 hua
+25 iat -- 28 iat
+25 rue -- 23 rue    Can add s
+25 dii -- 17 dii
+25 ici -- 11 ici
+25 iba -- 9 iba
+25 hah -- 8 hah    Can add s
+25 oca -- 4 oca    Can add s
+24 sea -- 397 sea    Can add s
+24 but -- 298 but    Can add s
+24 hoo -- 259 hoo
+24 fat -- 195 fat    Can add s
+24 fas -- 186 fas    Can add s
+24 arb -- 158 arb    Can add s
+24 fie -- 106 fie    Can add s
+24 imi -- 54 imi
+24 asi -- 47 asi
+24 cil -- 40 cil
+24 oak -- 34 oak    Can add s
+24 uto -- 28 uto
+24 nay -- 18 nay    Can add s
+24 eto -- 16 eto
+24 uga -- 7 uga
+24 oco -- 6 oco
+24 ouk -- 3 ouk    Can add s
+24 uka -- 3 uka
+23 ext -- 725 ext
+23 gam -- 297 gam    Can add s
+23 fel -- 223 fel    Can add s
+23 umb -- 147 umb
+23 rib -- 138 rib    Can add s
+23 ova -- 88 ova
+23 isa -- 64 isa
+23 wig -- 58 wig    Can add s
+23 sue -- 43 sue    Can add s
+23 upa -- 25 upa    Can add s
+23 eir -- 16 eir
+23 osi -- 16 osi
+23 cie -- 13 cie    Can add s
+23 gio -- 13 gio    Can add s
+23 oga -- 9 oga
+23 uve -- 9 uve
+23 eke -- 7 eke    Can add s
+23 upe -- 7 upe
+23 zal -- 7 zal
+23 avy -- 6 avy    Can add s
+23 oko -- 6 oko
+23 urd -- 6 urd    Can add s
+22 lab -- 267 lab    Can add s
+22 vir -- 265 vir
+22 rac -- 254 rac
+22 rub -- 227 rub    Can add s
+22 doo -- 206 doo    Can add s
+22 hai -- 202 hai
+22 rig -- 173 rig    Can add s
+22 wee -- 153 wee    Can add s
+22 gil -- 142 gil    Can add s
+22 rab -- 139 rab
+22 tax -- 122 tax
+22 kha -- 121 kha
+22 hur -- 119 hur
+22 lag -- 95 lag    Can add s
+22 pay -- 86 pay    Can add s
+22 tex -- 70 tex
+22 jes -- 62 jes    Can add s
+22 urb -- 56 urb    Can add s
+22 lal -- 37 lal
+22 wie -- 31 wie
+22 uru -- 22 uru    Can add s
+22 tad -- 21 tad    Can add s
+22 iam -- 17 iam
+22 ulu -- 14 ulu    Can add s
+22 zee -- 11 zee    Can add s
+22 hio -- 6 hio
+22 rya -- 6 rya    Can add s
+22 jis -- 5 jis
+22 aia -- 3 aia    Can add s
+22 gah -- 3 gah
+21 bur -- 500 bur    Can add s
+21 amb -- 314 amb    Can add s
+21 sat -- 309 sat
+21 mot -- 298 mot    Can add s
+21 sim -- 296 sim    Can add s
+21 gol -- 234 gol
+21 bol -- 225 bol
+21 tam -- 218 tam    Can add s
+21 uro -- 185 uro
+21 mad -- 183 mad    Can add s
+21 eup -- 178 eup
+21 dio -- 173 dio
+21 eva -- 167 eva
+21 cys -- 154 cys
+21 hir -- 98 hir
+21 dot -- 80 dot    Can add s
+21 bay -- 75 bay    Can add s
+21 roy -- 59 roy
+21 cyl -- 49 cyl
+21 jos -- 46 jos    Can add s
+21 fix -- 45 fix
+21 hoi -- 45 hoi    Can add s
+21 toe -- 40 toe    Can add s
+21 tik -- 39 tik    Can add s
+21 tua -- 21 tua
+21 pey -- 20 pey
+21 nen -- 9 nen
+21 uda -- 9 uda
+21 aik -- 7 aik
+21 kup -- 5 kup
+21 elp -- 4 elp
+21 vae -- 4 vae    Can add s
+21 eim -- 3 eim
+21 urr -- 3 urr
+20 ben -- 523 ben    Can add s
+20 pur -- 371 pur    Can add s
+20 vit -- 276 vit
+20 pop -- 220 pop    Can add s
+20 too -- 181 too
+20 gut -- 134 gut    Can add s
+20 roa -- 130 roa
+20 azo -- 116 azo
+20 lai -- 107 lai
+20 cis -- 76 cis
+20 orb -- 73 orb    Can add s
+20 mee -- 62 mee    Can add s
+20 opa -- 57 opa    Can add s
+20 hod -- 47 hod    Can add s
+20 dox -- 38 dox
+20 oar -- 38 oar    Can add s
+20 eni -- 33 eni
+20 oti -- 29 oti    Can add s
+20 azi -- 27 azi
+20 owe -- 26 owe    Can add s
+20 obo -- 24 obo    Can add s
+20 ega -- 16 ega
+20 loe -- 16 loe
+20 cey -- 8 cey
+20 ilk -- 8 ilk    Can add s
+20 vah -- 6 vah
+20 izz -- 5 izz
+20 erb -- 4 erb
+20 aas -- 3 aas
+19 cor -- 1487 cor    Can add s
+19 pla -- 1332 pla
+19 dem -- 856 dem
+19 cam -- 548 cam    Can add s
+19 boo -- 445 boo    Can add s
+19 phi -- 431 phi    Can add s
+19 tai -- 221 tai    Can add s
+19 avi -- 143 avi    Can add s
+19 inn -- 140 inn    Can add s
+19 opt -- 133 opt    Can add s
+19 bob -- 113 bob    Can add s
+19 hog -- 97 hog    Can add s
+19 tag -- 82 tag    Can add s
+19 had -- 66 had    Can add s
+19 ono -- 62 ono    Can add s
+19 due -- 58 due    Can add s
+19 rak -- 51 rak
+19 wax -- 51 wax
+19 vat -- 50 vat    Can add s
+19 lyn -- 37 lyn
+19 aby -- 25 aby    Can add s
+19 nix -- 25 nix
+19 azy -- 21 azy
+19 cue -- 18 cue    Can add s
+19 aha -- 11 aha    Can add s
+19 elm -- 10 elm    Can add s
+19 ael -- 6 ael
+19 epy -- 3 epy
+19 mey -- 3 mey
+18 tri -- 2125 tri
+18 cra -- 747 cra
+18 cur -- 558 cur    Can add s
+18 mil -- 556 mil    Can add s
+18 sec -- 363 sec    Can add s
+18 dys -- 258 dys
+18 cow -- 201 cow    Can add s
+18 amo -- 182 amo    Can add s
+18 poo -- 147 poo    Can add s
+18 nap -- 129 nap    Can add s
+18 god -- 121 god    Can add s
+18 hay -- 79 hay    Can add s
+18 kra -- 65 kra    Can add s
+18 rug -- 61 rug    Can add s
+18 lak -- 59 lak
+18 noi -- 57 noi
+18 jee -- 40 jee    Can add s
+18 wet -- 39 wet    Can add s
+18 gae -- 31 gae    Can add s
+18 zol -- 17 zol    Can add s
+18 nys -- 10 nys
+18 arf -- 5 arf    Can add s
+18 ilm -- 4 ilm
+17 rem -- 615 rem    Can add s
+17 tet -- 532 tet    Can add s
+17 pil -- 325 pil    Can add s
+17 sci -- 285 sci
+17 tab -- 273 tab    Can add s
+17 hou -- 271 hou
+17 beg -- 244 beg    Can add s
+17 dim -- 203 dim    Can add s
+17 sex -- 200 sex
+17 odo -- 182 odo
+17 tun -- 162 tun    Can add s
+17 kal -- 152 kal
+17 fet -- 147 fet    Can add s
+17 loa -- 125 loa
+17 lut -- 117 lut
+17 bud -- 100 bud    Can add s
+17 tup -- 42 tup    Can add s
+17 git -- 34 git    Can add s
+17 gay -- 32 gay    Can add s
+17 spy -- 30 spy
+17 isi -- 26 isi    Can add s
+17 olf -- 26 olf
+17 ulo -- 23 ulo
+17 vee -- 20 vee    Can add s
+17 aum -- 18 aum
+17 bae -- 16 bae    Can add s
+17 wry -- 16 wry
+17 eol -- 15 eol
+17 nio -- 15 nio
+17 ako -- 14 ako
+17 rik -- 14 rik
+17 aye -- 12 aye    Can add s
+17 aja -- 9 aja
+17 pox -- 9 pox
+17 usi -- 6 usi
+16 com -- 1844 com    Can add s
+16 uni -- 1283 uni    Can add s
+16 qua -- 967 qua
+16 pat -- 659 pat    Can add s
+16 por -- 569 por
+16 apo -- 520 apo    Can add s
+16 fil -- 356 fil    Can add s
+16 tit -- 270 tit    Can add s
+16 smo -- 223 smo
+16 imb -- 174 imb
+16 eco -- 154 eco    Can add s
+16 nom -- 153 nom    Can add s
+16 hap -- 145 hap    Can add s
+16 idi -- 143 idi
+16 jar -- 128 jar    Can add s
+16 fee -- 113 fee    Can add s
+16 max -- 98 max
+16 dex -- 97 dex
+16 ska -- 93 ska    Can add s
+16 gur -- 90 gur    Can add s
+16 gat -- 88 gat    Can add s
+16 mix -- 61 mix
+16 epe -- 60 epe
+16 nei -- 56 nei
+16 wen -- 56 wen    Can add s
+16 rau -- 49 rau
+16 alf -- 46 alf    Can add s
+16 hut -- 44 hut    Can add s
+16 jon -- 39 jon
+16 omp -- 38 omp
+16 nac -- 36 nac
+16 sht -- 36 sht
+16 loi -- 34 loi    Can add s
+16 myl -- 32 myl
+16 nil -- 28 nil    Can add s
+16 aza -- 22 aza
+16 ibi -- 13 ibi    Can add s
+16 ebe -- 10 ebe
+16 ilo -- 8 ilo
+16 auk -- 7 auk    Can add s
+16 dda -- 4 dda
+16 utu -- 4 utu    Can add s
+16 vum -- 4 vum    Can add s
+16 lel -- 3 lel
+15 bro -- 847 bro    Can add s
+15 iso -- 736 iso    Can add s
+15 sun -- 293 sun    Can add s
+15 oct -- 286 oct
+15 tho -- 280 tho    Can add s
+15 sam -- 218 sam    Can add s
+15 cad -- 161 cad    Can add s
+15 syl -- 157 syl
+15 xen -- 142 xen
+15 wag -- 137 wag    Can add s
+15 tip -- 107 tip    Can add s
+15 sop -- 105 sop    Can add s
+15 sme -- 98 sme
+15 pam -- 97 pam    Can add s
+15 bad -- 91 bad    Can add s
+15 kid -- 87 kid    Can add s
+15 mak -- 85 mak    Can add s
+15 kai -- 83 kai    Can add s
+15 bub -- 65 bub    Can add s
+15 oce -- 65 oce
+15 lub -- 57 lub
+15 lod -- 44 lod    Can add s
+15 yak -- 44 yak    Can add s
+15 aru -- 37 aru
+15 atl -- 34 atl
+15 tei -- 29 tei
+15 kim -- 28 kim
+15 odi -- 24 odi
+15 axe -- 18 axe    Can add s
+15 yee -- 18 yee    Can add s
+15 sio -- 16 sio
+15 yie -- 16 yie
+15 ghi -- 15 ghi    Can add s
+15 ahi -- 12 ahi    Can add s
+15 eya -- 8 eya    Can add s
+15 atu -- 6 atu
+15 tue -- 6 tue
+15 aku -- 5 aku
+15 cee -- 4 cee    Can add s
+15 yus -- 4 yus
+15 esi -- 3 esi
+15 nha -- 3 nha
+14 gro -- 472 gro    Can add s
+14 bul -- 383 bul
+14 aer -- 376 aer
+14 fan -- 294 fan    Can add s
+14 mur -- 219 mur
+14 doc -- 207 doc    Can add s
+14 cod -- 189 cod    Can add s
+14 mir -- 154 mir    Can add s
+14 roc -- 147 roc    Can add s
+14 tyr -- 126 tyr
+14 mah -- 112 mah
+14 iod -- 101 iod
+14 pae -- 100 pae
+14 api -- 99 api    Can add s
+14 jus -- 99 jus
+14 gai -- 98 gai
+14 gna -- 97 gna
+14 rut -- 73 rut    Can add s
+14 rif -- 69 rif    Can add s
+14 raf -- 57 raf
+14 isc -- 54 isc
+14 enu -- 53 enu
+14 oen -- 47 oen
+14 lug -- 45 lug    Can add s
+14 dha -- 42 dha
+14 tif -- 27 tif
+14 hey -- 20 hey    Can add s
+14 pah -- 20 pah    Can add s
+14 aar -- 18 aar
+14 yen -- 17 yen    Can add s
+14 koi -- 16 koi    Can add s
+14 hik -- 12 hik
+14 jah -- 8 jah
+14 ohm -- 8 ohm    Can add s
+14 ibo -- 6 ibo    Can add s
+14 oku -- 4 oku
+14 iko -- 3 iko
+14 owt -- 3 owt    Can add s
+13 arc -- 772 arc    Can add s
+13 irr -- 450 irr
+13 rou -- 336 rou    Can add s
+13 pea -- 288 pea    Can add s
+13 bil -- 282 bil
+13 mea -- 238 mea    Can add s
+13 mut -- 213 mut    Can add s
+13 org -- 209 org    Can add s
+13 sai -- 164 sai    Can add s
+13 shu -- 157 shu
+13 tot -- 143 tot    Can add s
+13 wis -- 138 wis    Can add s
+13 gig -- 127 gig    Can add s
+13 hun -- 125 hun    Can add s
+13 rob -- 120 rob    Can add s
+13 sad -- 116 sad    Can add s
+13 lav -- 112 lav    Can add s
+13 gul -- 111 gul    Can add s
+13 may -- 97 may    Can add s
+13 web -- 91 web    Can add s
+13 evo -- 68 evo    Can add s
+13 paw -- 60 paw    Can add s
+13 nag -- 58 nag    Can add s
+13 joy -- 49 joy    Can add s
+13 lup -- 44 lup
+13 coy -- 38 coy    Can add s
+13 fia -- 34 fia
+13 rup -- 34 rup
+13 zor -- 31 zor
+13 ebo -- 28 ebo
+13 gog -- 25 gog
+13 bys -- 23 bys    Can add s
+13 obi -- 23 obi    Can add s
+13 wah -- 23 wah
+13 nya -- 20 nya    Can add s
+13 zil -- 18 zil
+13 bye -- 17 bye    Can add s
+13 yat -- 17 yat
+13 mew -- 16 mew    Can add s
+13 mab -- 15 mab
+13 bey -- 14 bey    Can add s
+13 tsi -- 13 tsi
+13 hup -- 12 hup    Can add s
+13 ivy -- 12 ivy    Can add s
+13 fry -- 10 fry
+13 eka -- 8 eka
+13 hry -- 7 hry
+13 ngu -- 7 ngu
+13 yot -- 6 yot
+13 dhi -- 5 dhi
+13 pex -- 4 pex
+13 udi -- 4 udi
+13 mbu -- 3 mbu
+13 uil -- 3 uil
+12 bla -- 714 bla    Can add s
+12 pra -- 458 pra
+12 sac -- 399 sac    Can add s
+12 lac -- 392 lac    Can add s
+12 far -- 318 far    Can add s
+12 fis -- 269 fis
+12 arr -- 259 arr
+12 tap -- 214 tap    Can add s
+12 tec -- 202 tec    Can add s
+12 dil -- 192 dil
+12 fus -- 188 fus    Can add s
+12 hab -- 135 hab
+12 sir -- 122 sir    Can add s
+12 alp -- 118 alp    Can add s
+12 dat -- 111 dat
+12 fos -- 97 fos    Can add s
+12 evi -- 88 evi
+12 dup -- 87 dup    Can add s
+12 fon -- 80 fon    Can add s
+12 toi -- 59 toi
+12 roe -- 58 roe    Can add s
+12 gha -- 53 gha
+12 orp -- 49 orp
+12 dik -- 45 dik    Can add s
+12 bry -- 40 bry
+12 pak -- 39 pak    Can add s
+12 rek -- 39 rek
+12 sak -- 38 sak
+12 guy -- 26 guy    Can add s
+12 hak -- 24 hak
+12 esk -- 22 esk
+12 rez -- 15 rez
+12 egy -- 12 egy
+12 aho -- 11 aho
+12 umi -- 11 umi
+12 nex -- 10 nex
+12 awi -- 8 awi
+12 pta -- 7 pta
+12 rua -- 7 rua
+12 ewa -- 4 ewa
+12 ogi -- 4 ogi
+12 ogo -- 4 ogo
+12 erp -- 3 erp
+12 rao -- 3 rao
+11 cro -- 740 cro
+11 mac -- 707 mac    Can add s
+11 she -- 651 she    Can add s
+11 reg -- 530 reg    Can add s
+11 gri -- 412 gri    Can add s
+11 mai -- 299 mai    Can add s
+11 lep -- 269 lep    Can add s
+11 cab -- 235 cab    Can add s
+11 bec -- 222 bec
+11 lau -- 203 lau    Can add s
+11 pai -- 166 pai    Can add s
+11 abo -- 161 abo    Can add s
+11 kat -- 154 kat    Can add s
+11 aci -- 153 aci    Can add s
+11 opi -- 153 opi
+11 bum -- 145 bum    Can add s
+11 tir -- 99 tir
+11 avo -- 95 avo    Can add s
+11 moi -- 95 moi    Can add s
+11 kor -- 93 kor    Can add s
+11 sys -- 93 sys
+11 neb -- 88 neb    Can add s
+11 tak -- 69 tak    Can add s
+11 eru -- 65 eru
+11 jig -- 57 jig    Can add s
+11 err -- 51 err    Can add s
+11 dua -- 47 dua
+11 sew -- 39 sew    Can add s
+11 gry -- 38 gry
+11 pty -- 33 pty
+11 awe -- 32 awe    Can add s
+11 khi -- 29 khi    Can add s
+11 nak -- 27 nak
+11 cay -- 26 cay    Can add s
+11 dak -- 26 dak    Can add s
+11 voy -- 19 voy
+11 ivo -- 18 ivo
+11 rok -- 18 rok    Can add s
+11 yet -- 17 yet
+11 tao -- 15 tao    Can add s
+11 dix -- 12 dix
+11 yin -- 12 yin    Can add s
+11 aen -- 11 aen
+11 ewe -- 10 ewe    Can add s
+11 erl -- 9 erl
+11 mex -- 9 mex
+11 tze -- 9 tze
+11 lya -- 8 lya    Can add s
+11 naw -- 8 naw
+11 hwa -- 6 hwa
+11 isp -- 5 isp
+11 mle -- 5 mle
+11 nko -- 5 nko
+11 eor -- 4 eor
+11 neh -- 4 neh
+11 zic -- 3 zic
+10 pre -- 5834 pre    Can add s
+10 rec -- 1683 rec    Can add s
+10 rei -- 644 rei    Can add s
+10 sla -- 425 sla
+10 emp -- 401 emp
+10 det -- 388 det
+10 zoo -- 370 zoo    Can add s
+10 dro -- 338 dro
+10 pac -- 301 pac    Can add s
+10 pun -- 290 pun    Can add s
+10 fur -- 287 fur    Can add s
+10 dun -- 181 dun    Can add s
+10 gyn -- 168 gyn
+10 wai -- 158 wai    Can add s
+10 add -- 148 add    Can add s
+10 hag -- 139 hag    Can add s
+10 gem -- 131 gem    Can add s
+10 lob -- 129 lob    Can add s
+10 sne -- 112 sne
+10 jou -- 99 jou
+10 edi -- 88 edi
+10 emo -- 85 emo    Can add s
+10 kir -- 82 kir    Can add s
+10 emi -- 78 emi
+10 epa -- 78 epa
+10 pum -- 78 pum
+10 leo -- 58 leo    Can add s
+10 tok -- 57 tok
+10 toc -- 52 toc    Can add s
+10 sot -- 46 sot    Can add s
+10 pio -- 42 pio
+10 yam -- 41 yam    Can add s
+10 kip -- 38 kip    Can add s
+10 pik -- 38 pik
+10 sah -- 38 sah
+10 tza -- 31 tza
+10 kop -- 30 kop    Can add s
+10 aig -- 25 aig
+10 pry -- 24 pry    Can add s
+10 utt -- 24 utt
+10 leh -- 19 leh
+10 orr -- 16 orr
+10 lao -- 15 lao    Can add s
+10 euk -- 13 euk    Can add s
+10 nup -- 11 nup
+10 wyn -- 11 wyn    Can add s
+10 eik -- 9 eik    Can add s
+10 oye -- 9 oye    Can add s
+10 oza -- 8 oza
+10 eki -- 6 eki
+10 mpo -- 5 mpo
+9 pro -- 4035 pro    Can add s
+9 sem -- 1740 sem
+9 pol -- 1726 pol    Can add s
+9 pho -- 1320 pho    Can add s
+9 inc -- 1210 inc
+9 mul -- 872 mul
+9 bac -- 815 bac    Can add s
+9 app -- 637 app    Can add s
+9 sul -- 615 sul
+9 bri -- 599 bri    Can add s
+9 bio -- 567 bio    Can add s
+9 cen -- 463 cen    Can add s
+9 pul -- 384 pul    Can add s
+9 mag -- 381 mag    Can add s
+9 wat -- 351 wat    Can add s
+9 bou -- 350 bou
+9 uno -- 347 uno
+9 loc -- 283 loc    Can add s
+9 bab -- 217 bab    Can add s
+9 gau -- 170 gau    Can add s
+9 anc -- 169 anc
+9 hau -- 142 hau
+9 beh -- 119 beh
+9 duc -- 118 duc    Can add s
+9 pup -- 118 pup    Can add s
+9 yar -- 112 yar
+9 jam -- 109 jam    Can add s
+9 you -- 94 you    Can add s
+9 dew -- 80 dew    Can add s
+9 eso -- 75 eso
+9 nod -- 70 nod    Can add s
+9 abu -- 69 abu
+9 dub -- 68 dub    Can add s
+9 lur -- 65 lur    Can add s
+9 nob -- 64 nob    Can add s
+9 oxa -- 61 oxa
+9 kol -- 60 kol
+9 amu -- 53 amu    Can add s
+9 jaw -- 50 jaw    Can add s
+9 boc -- 47 boc
+9 nip -- 47 nip    Can add s
+9 tsa -- 44 tsa
+9 vex -- 42 vex
+9 yor -- 30 yor
+9 sik -- 29 sik
+9 zim -- 22 zim
+9 edd -- 17 edd
+9 kau -- 16 kau
+9 pek -- 14 pek
+9 akh -- 13 akh
+9 buk -- 12 buk
+9 rox -- 12 rox
+9 nua -- 7 nua
+9 oki -- 7 oki
+9 apu -- 5 apu    Can add s
+9 oho -- 5 oho    Can add s
+9 von -- 5 von
+9 dao -- 4 dao
+9 iph -- 4 iph
+9 ipi -- 4 ipi
+9 kte -- 4 kte
+9 izo -- 3 izo
+8 sup -- 2676 sup    Can add s
+8 sho -- 729 sho
+8 ref -- 699 ref    Can add s
+8 rev -- 590 rev    Can add s
+8 fre -- 486 fre
+8 dip -- 439 dip    Can add s
+8 chu -- 356 chu
+8 fir -- 284 fir    Can add s
+8 leu -- 273 leu
+8 tou -- 234 tou    Can add s
+8 nig -- 231 nig
+8 cul -- 225 cul    Can add s
+8 lib -- 221 lib    Can add s
+8 sei -- 164 sei    Can add s
+8 reo -- 161 reo    Can add s
+8 nov -- 157 nov
+8 dir -- 153 dir
+8 mud -- 153 mud    Can add s
+8 vac -- 149 vac    Can add s
+8 tox -- 144 tox
+8 deo -- 123 deo
+8 sow -- 89 sow    Can add s
+8 hya -- 88 hya
+8 noo -- 80 noo
+8 toa -- 77 toa
+8 fog -- 76 fog    Can add s
+8 nun -- 73 nun    Can add s
+8 enn -- 67 enn
+8 taw -- 65 taw    Can add s
+8 egg -- 52 egg    Can add s
+8 kok -- 50 kok
+8 ghe -- 48 ghe
+8 amn -- 44 amn
+8 gag -- 39 gag    Can add s
+8 cte -- 38 cte
+8 vot -- 36 vot
+8 gap -- 34 gap    Can add s
+8 kun -- 30 kun
+8 jay -- 24 jay    Can add s
+8 orl -- 23 orl
+8 hoy -- 22 hoy    Can add s
+8 nog -- 19 nog    Can add s
+8 noy -- 19 noy    Can add s
+8 ahu -- 18 ahu
+8 yum -- 18 yum
+8 uny -- 17 uny
+8 jak -- 16 jak    Can add s
+8 qin -- 16 qin    Can add s
+8 tso -- 16 tso
+8 buy -- 15 buy    Can add s
+8 luk -- 15 luk
+8 zit -- 15 zit    Can add s
+8 ebi -- 14 ebi
+8 dji -- 13 dji
+8 elk -- 12 elk    Can add s
+8 afi -- 9 afi
+8 cao -- 9 cao
+8 smy -- 9 smy
+8 aji -- 8 aji    Can add s
+8 auf -- 8 auf    Can add s
+8 yid -- 8 yid    Can add s
+8 oaf -- 7 oaf    Can add s
+8 udd -- 7 udd
+8 ipo -- 6 ipo
+8 oob -- 6 oob
+8 fax -- 5 fax
+8 huk -- 4 huk
+8 yic -- 4 yic
+8 yps -- 4 yps
+8 ayo -- 3 ayo
+8 egm -- 3 egm
+8 ivi -- 3 ivi
+8 ruk -- 3 ruk
+7 str -- 1528 str
+7 cou -- 1363 cou
+7 rep -- 1169 rep    Can add s
+7 blo -- 481 blo
+7 bea -- 472 bea
+7 coa -- 469 coa
+7 sou -- 412 sou    Can add s
+7 hex -- 298 hex    Can add s
+7 tub -- 297 tub    Can add s
+7 unn -- 296 unn
+7 nec -- 255 nec
+7 eff -- 239 eff    Can add s
+7 lig -- 234 lig    Can add s
+7 dig -- 232 dig    Can add s
+7 dou -- 229 dou
+7 nep -- 228 nep    Can add s
+7 sap -- 227 sap    Can add s
+7 pec -- 203 pec    Can add s
+7 dri -- 197 dri
+7 kil -- 196 kil
+7 reh -- 182 reh    Can add s
+7 gli -- 158 gli    Can add s
+7 lun -- 154 lun    Can add s
+7 boa -- 148 boa    Can add s
+7 hig -- 148 hig
+7 bai -- 134 bai    Can add s
+7 nem -- 118 nem
+7 bog -- 111 bog    Can add s
+7 mim -- 105 mim
+7 lif -- 103 lif
+7 esp -- 99 esp
+7 gab -- 99 gab    Can add s
+7 won -- 99 won    Can add s
+7 wre -- 96 wre
+7 eut -- 95 eut
+7 bak -- 94 bak
+7 gad -- 92 gad    Can add s
+7 twa -- 92 twa    Can add s
+7 boi -- 70 boi    Can add s
+7 fox -- 62 fox    Can add s
+7 hul -- 60 hul
+7 hib -- 59 hib
+7 peg -- 57 peg    Can add s
+7 ozo -- 56 ozo
+7 job -- 52 job    Can add s
+7 wam -- 51 wam
+7 rar -- 49 rar
+7 hug -- 43 hug    Can add s
+7 boe -- 41 boe
+7 wim -- 36 wim
+7 pyl -- 35 pyl
+7 kya -- 31 kya
+7 ubi -- 31 ubi
+7 bek -- 30 bek
+7 mne -- 30 mne
+7 tui -- 29 tui    Can add s
+7 dye -- 27 dye    Can add s
+7 aub -- 26 aub
+7 pto -- 22 pto
+7 oog -- 21 oog
+7 kei -- 20 kei
+7 cua -- 19 cua
+7 dya -- 19 dya    Can add s
+7 few -- 18 few    Can add s
+7 nir -- 18 nir
+7 pax -- 17 pax
+7 tse -- 15 tse
+7 rye -- 12 rye    Can add s
+7 fey -- 11 fey    Can add s
+7 ija -- 11 ija
+7 noa -- 11 noa
+7 amt -- 10 amt
+7 uva -- 10 uva    Can add s
+7 teo -- 9 teo
+7 agm -- 7 agm    Can add s
+7 ogh -- 6 ogh
+7 yad -- 6 yad    Can add s
+7 lye -- 5 lye    Can add s
+7 oji -- 5 oji
+7 urp -- 5 urp    Can add s
+7 aio -- 4 aio
+7 esm -- 4 esm
+7 igg -- 4 igg    Can add s
+7 qah -- 4 qah
+7 seh -- 4 seh
+7 tiv -- 4 tiv
+7 mna -- 3 mna    Can add s
+7 urm -- 3 urm
+6 unc -- 2200 unc    Can add s
+6 syn -- 798 syn
+6 spa -- 736 spa    Can add s
+6 gla -- 464 gla
+6 esc -- 229 esc
+6 arg -- 213 arg
+6 wha -- 207 wha
+6 mam -- 197 mam    Can add s
+6 mun -- 195 mun    Can add s
+6 pig -- 188 pig    Can add s
+6 lev -- 161 lev    Can add s
+6 agg -- 154 agg
+6 gir -- 140 gir
+6 dur -- 135 dur
+6 xan -- 133 xan
+6 jun -- 132 jun
+6 cob -- 119 cob    Can add s
+6 gou -- 113 gou
+6 noc -- 113 noc
+6 eph -- 111 eph
+6 dai -- 110 dai    Can add s
+6 adu -- 102 adu
+6 kam -- 102 kam
+6 alu -- 100 alu    Can add s
+6 nau -- 100 nau
+6 hei -- 92 hei
+6 osm -- 87 osm
+6 acu -- 84 acu    Can add s
+6 hav -- 79 hav
+6 hoa -- 74 hoa    Can add s
+6 kic -- 66 kic
+6 voi -- 64 voi
+6 sib -- 57 sib    Can add s
+6 raz -- 55 raz
+6 bha -- 52 bha
+6 koo -- 51 koo
+6 adh -- 45 adh
+6 lud -- 45 lud    Can add s
+6 map -- 43 map    Can add s
+6 hoc -- 40 hoc
+6 vow -- 39 vow    Can add s
+6 kot -- 38 kot
+6 jim -- 37 jim
+6 pei -- 37 pei    Can add s
+6 hok -- 34 hok
+6 kul -- 34 kul
+6 raj -- 33 raj
+6 enz -- 32 enz
+6 fiz -- 32 fiz
+6 nib -- 32 nib    Can add s
+6 hud -- 29 hud
+6 kay -- 29 kay    Can add s
+6 sif -- 28 sif
+6 goe -- 27 goe    Can add s
+6 eag -- 25 eag
+6 goi -- 24 goi    Can add s
+6 soy -- 23 soy    Can add s
+6 noe -- 22 noe    Can add s
+6 kyl -- 20 kyl
+6 zem -- 20 zem
+6 poy -- 19 poy
+6 vea -- 19 vea
+6 suk -- 18 suk    Can add s
+6 meh -- 16 meh
+6 dug -- 15 dug    Can add s
+6 hef -- 15 hef
+6 leb -- 15 leb
+6 waw -- 15 waw    Can add s
+6 mao -- 14 mao
+6 fah -- 13 fah    Can add s
+6 hue -- 13 hue    Can add s
+6 rov -- 13 rov
+6 ulm -- 12 ulm
+6 hiz -- 11 hiz
+6 nop -- 11 nop
+6 nox -- 11 nox
+6 hao -- 9 hao    Can add s
+6 meo -- 9 meo
+6 nao -- 9 nao    Can add s
+6 tzi -- 9 tzi
+6 erv -- 8 erv
+6 tsk -- 8 tsk    Can add s
+6 zet -- 8 zet
+6 ajo -- 7 ajo
+6 asu -- 7 asu
+6 anz -- 6 anz
+6 awm -- 6 awm
+6 nye -- 6 nye    Can add s
+6 tud -- 6 tud
+6 vik -- 6 vik
+6 mho -- 5 mho    Can add s
+6 wey -- 5 wey    Can add s
+6 uza -- 4 uza
+6 awd -- 3 awd
+6 oci -- 3 oci
+5 sub -- 3279 sub    Can add s
+5 for -- 1838 for
+5 epi -- 1078 epi
+5 hom -- 794 hom    Can add s
+5 sur -- 499 sur
+5 cop -- 478 cop    Can add s
+5 reb -- 399 reb    Can add s
+5 vol -- 368 vol    Can add s
+5 neo -- 310 neo
+5 sig -- 310 sig    Can add s
+5 sna -- 286 sna
+5 ske -- 277 ske
+5 tac -- 262 tac    Can add s
+5 pne -- 205 pne
+5 asc -- 199 asc
+5 sau -- 197 sau
+5 bib -- 196 bib    Can add s
+5 gui -- 185 gui
+5 alc -- 184 alc
+5 inh -- 179 inh
+5 pte -- 174 pte
+5 lou -- 166 lou    Can add s
+5 cep -- 164 cep    Can add s
+5 mem -- 144 mem    Can add s
+5 deh -- 130 deh
+5 quo -- 123 quo    Can add s
+5 amm -- 120 amm
+5 tig -- 118 tig    Can add s
+5 hac -- 111 hac
+5 tut -- 110 tut    Can add s
+5 hob -- 108 hob    Can add s
+5 dau -- 106 dau
+5 pir -- 105 pir    Can add s
+5 nur -- 85 nur    Can add s
+5 psa -- 83 psa
+5 aug -- 77 aug
+5 axi -- 73 axi    Can add s
+5 gno -- 69 gno
+5 mug -- 67 mug    Can add s
+5 daw -- 65 daw    Can add s
+5 epo -- 65 epo    Can add s
+5 dag -- 64 dag    Can add s
+5 eud -- 64 eud
+5 gim -- 61 gim
+5 cox -- 59 cox
+5 nul -- 59 nul
+5 gow -- 53 gow
+5 nab -- 52 nab    Can add s
+5 eul -- 50 eul
+5 gaw -- 50 gaw    Can add s
+5 aet -- 47 aet
+5 gea -- 46 gea
+5 jab -- 43 jab    Can add s
+5 teg -- 39 teg    Can add s
+5 tod -- 39 tod    Can add s
+5 maw -- 37 maw    Can add s
+5 ebu -- 35 ebu
+5 zir -- 34 zir
+5 dab -- 32 dab    Can add s
+5 riz -- 31 riz
+5 wab -- 31 wab    Can add s
+5 duk -- 28 duk
+5 odd -- 25 odd    Can add s
+5 pew -- 25 pew    Can add s
+5 oug -- 23 oug
+5 veh -- 22 veh
+5 kry -- 21 kry
+5 lek -- 21 lek    Can add s
+5 lof -- 20 lof
+5 opo -- 18 opo
+5 wow -- 18 wow    Can add s
+5 kow -- 16 kow    Can add s
+5 omm -- 15 omm
+5 yol -- 14 yol
+5 eja -- 13 eja
+5 tov -- 13 tov
+5 zac -- 13 zac
+5 afa -- 12 afa
+5 gwe -- 12 gwe
+5 tuk -- 12 tuk    Can add s
+5 oua -- 11 oua
+5 cne -- 10 cne
+5 mox -- 10 mox
+5 vak -- 10 vak
+5 anx -- 9 anx
+5 wog -- 9 wog    Can add s
+5 oub -- 8 oub
+5 ryo -- 8 ryo
+5 tye -- 8 tye    Can add s
+5 bao -- 7 bao    Can add s
+5 heo -- 7 heo
+5 isn -- 7 isn
+5 lez -- 7 lez
+5 nui -- 7 nui
+5 ryn -- 7 ryn
+5 tla -- 7 tla
+5 ufo -- 7 ufo    Can add s
+5 ekt -- 6 ekt
+5 nek -- 6 nek    Can add s
+5 wop -- 6 wop    Can add s
+5 aie -- 5 aie
+5 ijo -- 5 ijo    Can add s
+5 sth -- 5 sth
+5 tzu -- 5 tzu    Can add s
+5 zat -- 4 zat
+5 aua -- 3 aua    Can add s
+5 bex -- 3 bex
+5 eci -- 3 eci
+5 eue -- 3 eue
+5 ewt -- 3 ewt    Can add s
+5 ogg -- 3 ogg
+5 ugg -- 3 ugg
+4 spi -- 846 spi
+4 cla -- 807 cla
+4 fra -- 560 fra    Can add s
+4 clo -- 474 clo    Can add s
+4 glo -- 457 glo    Can add s
+4 cli -- 433 cli
+4 coe -- 372 coe    Can add s
+4 meg -- 366 meg    Can add s
+4 sli -- 355 sli
+4 sep -- 329 sep    Can add s
+4 div -- 326 div    Can add s
+4 fac -- 282 fac
+4 coo -- 267 coo    Can add s
+4 bir -- 248 bir
+4 fou -- 219 fou    Can add s
+4 bun -- 212 bun    Can add s
+4 bli -- 209 bli
+4 fol -- 205 fol
+4 exa -- 197 exa
+4 exe -- 190 exe    Can add s
+4 tau -- 178 tau    Can add s
+4 cog -- 170 cog    Can add s
+4 coi -- 168 coi
+4 rha -- 164 rha
+4 luc -- 159 luc
+4 pau -- 152 pau
+4 big -- 140 big    Can add s
+4 orc -- 138 orc    Can add s
+4 riv -- 137 riv
+4 opp -- 132 opp    Can add s
+4 pow -- 127 pow    Can add s
+4 lec -- 123 lec
+4 sip -- 120 sip    Can add s
+4 poe -- 119 poe
+4 pag -- 114 pag
+4 lov -- 112 lov
+4 jer -- 106 jer
+4 fig -- 100 fig    Can add s
+4 rud -- 98 rud    Can add s
+4 jin -- 95 jin    Can add s
+4 gob -- 91 gob    Can add s
+4 vio -- 89 vio
+4 jum -- 85 jum
+4 inu -- 78 inu
+4 cai -- 75 cai
+4 kab -- 75 kab    Can add s
+4 abl -- 74 abl
+4 feu -- 71 feu    Can add s
+4 anh -- 70 anh
+4 wad -- 70 wad    Can add s
+4 usu -- 68 usu
+4 mom -- 65 mom    Can add s
+4 wak -- 64 wak
+4 mop -- 62 mop    Can add s
+4 zym -- 60 zym
+4 mei -- 59 mei
+4 sko -- 56 sko
+4 mov -- 54 mov
+4 mez -- 50 mez
+4 kri -- 49 kri    Can add s
+4 tog -- 49 tog    Can add s
+4 toy -- 46 toy    Can add s
+4 wap -- 45 wap    Can add s
+4 bei -- 44 bei
+4 nub -- 43 nub    Can add s
+4 ovo -- 43 ovo
+4 pso -- 43 pso
+4 bap -- 41 bap    Can add s
+4 mog -- 40 mog    Can add s
+4 mow -- 40 mow    Can add s
+4 nev -- 37 nev
+4 pue -- 37 pue
+4 yok -- 37 yok    Can add s
+4 gei -- 35 gei
+4 naz -- 35 naz
+4 dek -- 34 dek
+4 jib -- 34 jib    Can add s
+4 lox -- 33 lox
+4 muz -- 32 muz
+4 hyr -- 30 hyr
+4 mya -- 28 mya
+4 zig -- 28 zig    Can add s
+4 anu -- 26 anu    Can add s
+4 cei -- 26 cei
+4 jog -- 24 jog    Can add s
+4 bop -- 23 bop    Can add s
+4 jor -- 23 jor    Can add s
+4 muk -- 23 muk
+4 wob -- 22 wob
+4 hui -- 21 hui    Can add s
+4 moy -- 21 moy    Can add s
+4 yup -- 21 yup    Can add s
+4 cah -- 20 cah
+4 doi -- 20 doi
+4 kut -- 20 kut
+4 pti -- 20 pti
+4 zai -- 20 zai
+4 byl -- 17 byl
+4 why -- 17 why    Can add s
+4 kea -- 16 kea    Can add s
+4 tyn -- 16 tyn
+4 mio -- 15 mio
+4 nef -- 15 nef    Can add s
+4 voe -- 15 voe    Can add s
+4 dhu -- 14 dhu    Can add s
+4 keg -- 14 keg    Can add s
+4 yau -- 14 yau
+4 ahe -- 12 ahe
+4 aso -- 12 aso
+4 uln -- 12 uln
+4 orf -- 11 orf    Can add s
+4 oxo -- 11 oxo
+4 vim -- 10 vim    Can add s
+4 yun -- 10 yun
+4 kew -- 8 kew
+4 obu -- 8 obu    Can add s
+4 umm -- 8 umm
+4 vax -- 8 vax
+4 dja -- 7 dja
+4 egu -- 7 egu
+4 sra -- 7 sra
+4 tez -- 7 tez
+4 dey -- 6 dey    Can add s
+4 dso -- 6 dso    Can add s
+4 eev -- 6 eev
+4 olp -- 6 olp
+4 ooh -- 6 ooh    Can add s
+4 peh -- 6 peh    Can add s
+4 ehr -- 5 ehr
+4 jia -- 5 jia
+4 mni -- 5 mni
+4 wut -- 5 wut
+4 yao -- 5 yao
+4 egi -- 4 egi    Can add s
+4 kua -- 4 kua
+4 oxs -- 4 oxs
+4 vys -- 4 vys
+4 xim -- 4 xim
+4 eod -- 3 eod
+4 eog -- 3 eog
+4 eom -- 3 eom
+4 eot -- 3 eot
+4 lyp -- 3 lyp
+4 ubu -- 3 ubu
+4 uhl -- 3 uhl
+4 vox -- 3 vox
+4 yim -- 3 yim
+3 dec -- 1310 dec
+3 hyd -- 865 hyd
+3 spo -- 668 spo
+3 def -- 645 def    Can add s
+3 emb -- 608 emb
+3 cri -- 460 cri    Can add s
+3 mou -- 354 mou    Can add s
+3 exo -- 327 exo
+3 moo -- 323 moo    Can add s
+3 pap -- 321 pap    Can add s
+3 foo -- 307 foo    Can add s
+3 wea -- 291 wea
+3 deb -- 274 deb    Can add s
+3 goo -- 247 goo    Can add s
+3 glu -- 243 glu
+3 fal -- 229 fal
+3 pou -- 221 pou
+3 rho -- 187 rho    Can add s
+3 poi -- 170 poi    Can add s
+3 bod -- 154 bod    Can add s
+3 mau -- 135 mau    Can add s
+3 wei -- 134 wei
+3 dod -- 127 dod    Can add s
+3 soo -- 126 soo
+3 gym -- 119 gym    Can add s
+3 pli -- 110 pli
+3 liq -- 109 liq
+3 rav -- 105 rav    Can add s
+3 hec -- 101 hec
+3 req -- 101 req
+3 yel -- 101 yel
+3 hym -- 99 hym
+3 soa -- 98 soa
+3 nav -- 96 nav    Can add s
+3 exs -- 95 exs
+3 fab -- 95 fab    Can add s
+3 pub -- 92 pub    Can add s
+3 veg -- 91 veg
+3 cun -- 89 cun
+3 fam -- 88 fam    Can add s
+3 nou -- 88 nou    Can add s
+3 reu -- 88 reu    Can add s
+3 bim -- 85 bim
+3 sod -- 81 sod    Can add s
+3 jur -- 78 jur
+3 jap -- 77 jap    Can add s
+3 sud -- 75 sud    Can add s
+3 elu -- 74 elu
+3 ovi -- 70 ovi    Can add s
+3 sax -- 70 sax
+3 onc -- 68 onc
+3 psi -- 68 psi    Can add s
+3 edu -- 66 edu
+3 kur -- 65 kur
+3 abb -- 62 abb    Can add s
+3 upp -- 62 upp
+3 gho -- 59 gho
+3 tul -- 59 tul
+3 pim -- 56 pim
+3 tob -- 56 tob
+3 agu -- 55 agu
+3 cui -- 55 cui
+3 ecl -- 54 ecl
+3 eig -- 54 eig
+3 dib -- 53 dib    Can add s
+3 pht -- 53 pht
+3 fag -- 50 fag    Can add s
+3 pok -- 50 pok
+3 dap -- 47 dap    Can add s
+3 foe -- 47 foe    Can add s
+3 two -- 47 two    Can add s
+3 tib -- 46 tib
+3 bam -- 45 bam    Can add s
+3 cud -- 43 cud    Can add s
+3 haf -- 42 haf
+3 hyo -- 42 hyo
+3 hov -- 41 hov
+3 kak -- 38 kak    Can add s
+3 tav -- 37 tav    Can add s
+3 kla -- 36 kla
+3 sua -- 36 sua
+3 aor -- 34 aor
+3 kom -- 34 kom
+3 soi -- 33 soi
+3 kap -- 32 kap
+3 kli -- 32 kli
+3 lir -- 31 lir
+3 nif -- 31 nif
+3 lef -- 30 lef
+3 moa -- 30 moa    Can add s
+3 baa -- 29 baa    Can add s
+3 bik -- 29 bik
+3 mik -- 28 mik
+3 cip -- 27 cip
+3 jit -- 27 jit    Can add s
+3 kao -- 27 kao
+3 keb -- 27 keb    Can add s
+3 nug -- 27 nug    Can add s
+3 peo -- 27 peo
+3 tug -- 27 tug    Can add s
+3 wiz -- 27 wiz
+3 gao -- 25 gao
+3 poa -- 25 poa    Can add s
+3 vod -- 25 vod
+3 enk -- 22 enk
+3 ulc -- 22 ulc
+3 doe -- 21 doe    Can add s
+3 yow -- 21 yow    Can add s
+3 fay -- 20 fay    Can add s
+3 moe -- 20 moe    Can add s
+3 sok -- 20 sok
+3 yag -- 19 yag    Can add s
+3 teh -- 18 teh
+3 foy -- 17 foy    Can add s
+3 kep -- 17 kep    Can add s
+3 maa -- 17 maa    Can add s
+3 huz -- 16 huz
+3 koe -- 16 koe
+3 wus -- 16 wus    Can add s
+3 caw -- 15 caw    Can add s
+3 kuk -- 15 kuk
+3 hek -- 14 hek
+3 dui -- 13 dui
+3 fik -- 13 fik
+3 fot -- 13 fot
+3 meu -- 13 meu    Can add s
+3 ooz -- 13 ooz
+3 hoh -- 12 hoh    Can add s
+3 kyr -- 12 kyr
+3 pyx -- 12 pyx
+3 juk -- 11 juk
+3 myd -- 11 myd
+3 poh -- 11 poh    Can add s
+3 sye -- 11 sye    Can add s
+3 wae -- 11 wae    Can add s
+3 zho -- 11 zho    Can add s
+3 zak -- 10 zak
+3 myn -- 9 myn
+3 roh -- 9 roh
+3 dok -- 8 dok
+3 hof -- 8 hof
+3 loh -- 8 loh
+3 tef -- 8 tef    Can add s
+3 zio -- 8 zio
+3 cuz -- 7 cuz
+3 etu -- 7 etu
+3 feh -- 7 feh    Can add s
+3 ixi -- 7 ixi
+3 pao -- 7 pao
+3 paz -- 7 paz
+3 qat -- 7 qat    Can add s
+3 jji -- 6 jji
+3 keh -- 6 keh
+3 sny -- 6 sny
+3 akt -- 5 akt
+3 ayl -- 5 ayl
+3 beo -- 5 beo
+3 bue -- 5 bue
+3 gup -- 5 gup    Can add s
+3 hev -- 5 hev
+3 hyn -- 5 hyn
+3 lua -- 5 lua
+3 lyk -- 5 lyk
+3 nuk -- 5 nuk
+3 ypo -- 5 ypo
+3 zek -- 5 zek    Can add s
+3 aah -- 4 aah    Can add s
+3 diq -- 4 diq
+3 epp -- 4 epp
+3 ewk -- 4 ewk    Can add s
+3 gye -- 4 gye
+3 huh -- 4 huh    Can add s
+3 laf -- 4 laf
+3 rwa -- 4 rwa
+3 ymp -- 4 ymp
+3 ahr -- 3 ahr
+3 aue -- 3 aue
+3 cmd -- 3 cmd
+3 gme -- 3 gme
+3 hez -- 3 hez
+3 hmo -- 3 hmo    Can add s
+3 rir -- 3 rir
+3 umf -- 3 umf
+3 upu -- 3 upu
+3 wum -- 3 wum
+3 xir -- 3 xir
+2 spe -- 901 spe
+2 squ -- 648 squ
+2 acc -- 587 acc
+2 pyr -- 567 pyr
+2 neu -- 563 neu
+2 enc -- 553 enc
+2 unl -- 552 unl
+2 flu -- 510 flu    Can add s
+2 cir -- 494 cir
+2 fro -- 397 fro    Can add s
+2 stu -- 389 stu
+2 swa -- 379 swa
+2 tru -- 379 tru
+2 cru -- 374 cru    Can add s
+2 sno -- 370 sno
+2 scu -- 342 scu
+2 cyc -- 313 cyc
+2 slo -- 300 slo
+2 bru -- 291 bru    Can add s
+2 cau -- 289 cau    Can add s
+2 cac -- 269 cac
+2 jac -- 264 jac
+2 shr -- 263 shr
+2 fib -- 242 fib    Can add s
+2 alb -- 235 alb    Can add s
+2 soc -- 235 soc    Can add s
+2 mod -- 226 mod    Can add s
+2 gru -- 220 gru    Can add s
+2 typ -- 211 typ
+2 sab -- 205 sab    Can add s
+2 who -- 198 who    Can add s
+2 deg -- 191 deg    Can add s
+2 pom -- 174 pom    Can add s
+2 alg -- 165 alg
+2 smi -- 163 smi
+2 neg -- 160 neg    Can add s
+2 liv -- 144 liv
+2 dif -- 141 dif    Can add s
+2 dac -- 137 dac
+2 mec -- 132 mec
+2 rhy -- 132 rhy
+2 obl -- 130 obl
+2 jud -- 128 jud    Can add s
+2 sag -- 127 sag    Can add s
+2 adj -- 126 adj
+2 viv -- 126 viv
+2 cub -- 120 cub    Can add s
+2 deu -- 117 deu    Can add s
+2 unj -- 112 unj
+2 wra -- 110 wra
+2 fum -- 108 fum    Can add s
+2 unu -- 107 unu
+2 dul -- 106 dul
+2 voc -- 106 voc
+2 dyn -- 101 dyn
+2 fem -- 101 fem    Can add s
+2 goa -- 101 goa    Can add s
+2 kna -- 100 kna
+2 osc -- 96 osc
+2 enl -- 95 enl
+2 gaz -- 95 gaz
+2 mob -- 95 mob    Can add s
+2 wid -- 90 wid
+2 heb -- 87 heb
+2 duo -- 85 duo    Can add s
+2 emu -- 85 emu    Can add s
+2 gib -- 85 gib    Can add s
+2 pud -- 84 pud    Can add s
+2 jol -- 83 jol    Can add s
+2 bau -- 80 bau
+2 lyc -- 78 lyc
+2 sui -- 77 sui    Can add s
+2 kne -- 74 kne
+2 yea -- 74 yea    Can add s
+2 maj -- 73 maj
+2 jag -- 69 jag    Can add s
+2 fad -- 65 fad    Can add s
+2 oxi -- 64 oxi
+2 vig -- 64 vig    Can add s
+2 baw -- 61 baw    Can add s
+2 beb -- 61 beb
+2 skr -- 61 skr
+2 pug -- 60 pug    Can add s
+2 ruf -- 60 ruf
+2 wau -- 59 wau
+2 caf -- 56 caf    Can add s
+2 nud -- 54 nud
+2 eug -- 53 eug
+2 cag -- 52 cag    Can add s
+2 jel -- 52 jel
+2 pog -- 49 pog    Can add s
+2 zam -- 47 zam
+2 aeg -- 46 aeg
+2 yaw -- 45 yaw    Can add s
+2 wou -- 44 wou
+2 biz -- 43 biz
+2 dud -- 42 dud    Can add s
+2 shm -- 41 shm
+2 zip -- 41 zip    Can add s
+2 aeo -- 40 aeo
+2 upf -- 40 upf
+2 jal -- 39 jal
+2 ruc -- 36 ruc    Can add s
+2 ecu -- 35 ecu    Can add s
+2 hub -- 34 hub    Can add s
+2 ocu -- 34 ocu
+2 kou -- 33 kou
+2 moz -- 33 moz
+2 vec -- 33 vec
+2 heg -- 32 heg
+2 kro -- 30 kro
+2 tof -- 30 tof
+2 boh -- 29 boh    Can add s
+2 diz -- 29 diz
+2 gud -- 29 gud
+2 rul -- 29 rul
+2 yap -- 29 yap    Can add s
+2 yuk -- 28 yuk    Can add s
+2 fak -- 27 fak
+2 kad -- 27 kad
+2 puk -- 27 puk
+2 jen -- 24 jen
+2 mok -- 24 mok
+2 osp -- 24 osp
+2 fow -- 23 fow
+2 faw -- 22 faw    Can add s
+2 jut -- 22 jut    Can add s
+2 kob -- 22 kob    Can add s
+2 kef -- 21 kef    Can add s
+2 jat -- 20 jat
+2 khu -- 20 khu
+2 woe -- 20 woe    Can add s
+2 igu -- 19 igu
+2 tew -- 19 tew    Can add s
+2 fae -- 18 fae
+2 kaw -- 18 kaw    Can add s
+2 wok -- 18 wok    Can add s
+2 afo -- 17 afo
+2 esq -- 17 esq
+2 lok -- 17 lok
+2 voo -- 17 voo
+2 yeo -- 17 yeo
+2 dje -- 16 dje
+2 doa -- 16 doa
+2 fop -- 16 fop    Can add s
+2 kio -- 16 kio
+2 adl -- 15 adl
+2 fod -- 15 fod
+2 loq -- 15 loq
+2 niv -- 15 niv
+2 dez -- 14 dez
+2 ecd -- 14 ecd
+2 etc -- 14 etc
+2 loz -- 14 loz
+2 sek -- 14 sek
+2 doy -- 13 doy    Can add s
+2 eyr -- 13 eyr
+2 hiv -- 13 hiv
+2 ocy -- 13 ocy
+2 waz -- 13 waz
+2 yip -- 13 yip    Can add s
+2 wot -- 12 wot    Can add s
+2 wud -- 12 wud    Can add s
+2 wun -- 12 wun
+2 ayu -- 11 ayu    Can add s
+2 caa -- 11 caa    Can add s
+2 lui -- 11 lui    Can add s
+2 mue -- 11 mue
+2 naf -- 11 naf
+2 sri -- 11 sri    Can add s
+2 tiz -- 11 tiz
+2 adz -- 10 adz
+2 bih -- 10 bih
+2 ebb -- 10 ebb    Can add s
+2 haa -- 10 haa    Can add s
+2 kyn -- 10 kyn
+2 oxe -- 10 oxe    Can add s
+2 toh -- 10 toh
+2 dof -- 9 dof
+2 esu -- 9 esu
+2 mek -- 9 mek
+2 piu -- 9 piu    Can add s
+2 uvi -- 9 uvi
+2 xys -- 9 xys
+2 ycl -- 9 ycl
+2 awr -- 8 awr
+2 epr -- 8 epr
+2 joe -- 8 joe    Can add s
+2 kyu -- 8 kyu    Can add s
+2 niz -- 8 niz
+2 obb -- 8 obb
+2 oik -- 8 oik    Can add s
+2 vra -- 8 vra
+2 zag -- 8 zag    Can add s
+2 fez -- 7 fez
+2 kva -- 7 kva    Can add s
+2 laq -- 7 laq
+2 uig -- 7 uig
+2 wos -- 7 wos
+2 zug -- 7 zug
+2 zum -- 7 zum
+2 ahm -- 6 ahm
+2 aju -- 6 aju
+2 aou -- 6 aou
+2 bax -- 6 bax
+2 eju -- 6 eju
+2 jna -- 6 jna
+2 ouc -- 6 ouc
+2 pov -- 6 pov
+2 taz -- 6 taz
+2 tuy -- 6 tuy
+2 zur -- 6 zur
+2 arz -- 5 arz
+2 bix -- 5 bix
+2 bua -- 5 bua
+2 byn -- 5 byn
+2 dyi -- 5 dyi
+2 feg -- 5 feg    Can add s
+2 isu -- 5 isu
+2 jiu -- 5 jiu
+2 kue -- 5 kue    Can add s
+2 kui -- 5 kui
+2 nuf -- 5 nuf
+2 oui -- 5 oui
+2 ryu -- 5 ryu    Can add s
+2 tme -- 5 tme
+2 weg -- 5 weg
+2 yez -- 5 yez
+2 zha -- 5 zha
+2 zod -- 5 zod
+2 aem -- 4 aem
+2 amh -- 4 amh
+2 bwa -- 4 bwa
+2 cye -- 4 cye
+2 gyo -- 4 gyo
+2 jax -- 4 jax
+2 muu -- 4 muu    Can add s
+2 puy -- 4 puy    Can add s
+2 qis -- 4 qis
+2 tja -- 4 tja
+2 usp -- 4 usp
+2 yev -- 4 yev
+2 yut -- 4 yut
+2 ayi -- 3 ayi
+2 azl -- 3 azl
+2 dux -- 3 dux
+2 dva -- 3 dva
+2 eac -- 3 eac
+2 efi -- 3 efi
+2 heh -- 3 heh    Can add s
+2 hih -- 3 hih
+2 idd -- 3 idd
+2 kif -- 3 kif    Can add s
+2 luo -- 3 luo
+2 odz -- 3 odz
+2 otu -- 3 otu    Can add s
+2 soe -- 3 soe
+2 yai -- 3 yai
+2 yaz -- 3 yaz
+2 ybo -- 3 ybo
+2 yew -- 3 yew    Can add s
+1 hyp -- 2094 hyp    Can add s
+1 unp -- 1676 unp
+1 scr -- 951 scr
+1 unb -- 943 unb
+1 inf -- 824 inf
+1 fla -- 810 fla
+1 pri -- 729 pri    Can add s
+1 chr -- 658 chr
+1 exp -- 641 exp
+1 unh -- 622 unh
+1 dep -- 612 dep    Can add s
+1 imm -- 548 imm
+1 coc -- 545 coc
+1 flo -- 537 flo
+1 exc -- 480 exc
+1 plu -- 468 plu    Can add s
+1 woo -- 440 woo    Can add s
+1 inv -- 435 inv
+1 geo -- 416 geo    Can add s
+1 spl -- 408 spl
+1 dev -- 357 dev    Can add s
+1 blu -- 341 blu
+1 sym -- 340 sym
+1 fun -- 267 fun    Can add s
+1 twi -- 262 twi
+1 suc -- 261 suc
+1 hep -- 254 hep    Can add s
+1 rhi -- 248 rhi
+1 fli -- 243 fli
+1 thu -- 242 thu    Can add s
+1 adv -- 240 adv
+1 agr -- 236 agr
+1 plo -- 232 plo
+1 myo -- 226 myo
+1 fru -- 224 fru
+1 cyt -- 218 cyt
+1 sni -- 207 sni
+1 clu -- 199 clu    Can add s
+1 dru -- 190 dru
+1 phr -- 184 phr
+1 muc -- 182 muc
+1 pep -- 180 pep    Can add s
+1 fea -- 177 fea
+1 myr -- 172 myr
+1 cav -- 168 cav
+1 lym -- 167 lym    Can add s
+1 vul -- 161 vul
+1 rhe -- 159 rhe
+1 omn -- 157 omn
+1 vag -- 156 vag    Can add s
+1 sav -- 153 sav    Can add s
+1 adm -- 150 adm
+1 pip -- 150 pip    Can add s
+1 abr -- 148 abr
+1 bef -- 148 bef
+1 vap -- 141 vap
+1 suf -- 137 suf
+1 myc -- 136 myc    Can add s
+1 wri -- 136 wri
+1 bom -- 121 bom
+1 rej -- 117 rej
+1 atr -- 112 atr
+1 sug -- 109 sug    Can add s
+1 env -- 104 env
+1 fav -- 102 fav    Can add s
+1 wom -- 101 wom
+1 cym -- 100 cym
+1 upr -- 98 upr
+1 wir -- 98 wir
+1 poc -- 95 poc
+1 cof -- 91 cof
+1 wol -- 91 wol
+1 exi -- 90 exi
+1 obj -- 90 obj
+1 saf -- 88 saf
+1 seq -- 88 seq
+1 sev -- 88 sev    Can add s
+1 acq -- 87 acq
+1 cyp -- 86 cyp
+1 sof -- 86 sof
+1 bif -- 85 bif
+1 vau -- 85 vau    Can add s
+1 adr -- 84 adr
+1 maz -- 84 maz
+1 moc -- 82 moc    Can add s
+1 civ -- 81 civ
+1 fut -- 80 fut
+1 uph -- 80 uph
+1 inq -- 79 inq
+1 upl -- 77 upl
+1 pav -- 76 pav    Can add s
+1 seg -- 76 seg    Can add s
+1 syr -- 75 syr
+1 enh -- 74 enh
+1 pyo -- 74 pyo
+1 sku -- 73 sku
+1 fug -- 72 fug    Can add s
+1 isl -- 70 isl    Can add s
+1 jug -- 70 jug    Can add s
+1 abd -- 69 abd
+1 agn -- 67 agn
+1 mig -- 65 mig    Can add s
+1 wro -- 63 wro
+1 lil -- 61 lil
+1 wic -- 61 wic
+1 gyp -- 60 gyp    Can add s
+1 dop -- 59 dop    Can add s
+1 laz -- 59 laz
+1 gom -- 57 gom
+1 atm -- 56 atm
+1 moh -- 56 moh    Can add s
+1 apr -- 55 apr    Can add s
+1 fec -- 55 fec
+1 gov -- 55 gov    Can add s
+1 six -- 54 six
+1 tuc -- 54 tuc
+1 sov -- 53 sov    Can add s
+1 sut -- 53 sut
+1 emm -- 52 emm
+1 sob -- 52 sob    Can add s
+1 vei -- 52 vei
+1 bev -- 51 bev
+1 dih -- 51 dih
+1 jew -- 51 jew    Can add s
+1 kre -- 50 kre
+1 waf -- 50 waf
+1 alv -- 49 alv
+1 jai -- 48 jai
+1 zap -- 48 zap    Can add s
+1 kib -- 47 kib
+1 tym -- 47 tym
+1 vom -- 47 vom    Can add s
+1 apl -- 46 apl
+1 dob -- 46 dob    Can add s
+1 fei -- 46 fei    Can add s
+1 lyr -- 45 lyr
+1 viz -- 45 viz
+1 buz -- 44 buz
+1 daf -- 44 daf
+1 lyo -- 44 lyo
+1 cim -- 43 cim
+1 nyc -- 43 nyc
+1 bez -- 42 bez
+1 jul -- 42 jul
+1 byr -- 41 byr
+1 cem -- 41 cem
+1 jau -- 41 jau
+1 foi -- 39 foi
+1 gip -- 39 gip    Can add s
+1 vai -- 39 vai
+1 coq -- 38 coq
+1 obv -- 38 obv    Can add s
+1 miz -- 37 miz
+1 pix -- 37 pix
+1 piz -- 37 piz
+1 yac -- 37 yac
+1 abn -- 36 abn
+1 enj -- 36 enj
+1 pye -- 35 pye    Can add s
+1 zeb -- 35 zeb
+1 bui -- 34 bui
+1 cak -- 34 cak
+1 gif -- 34 gif    Can add s
+1 hye -- 33 hye    Can add s
+1 coz -- 32 coz
+1 fuz -- 32 fuz
+1 jok -- 32 jok
+1 juv -- 32 juv
+1 zea -- 32 zea    Can add s
+1 lul -- 31 lul
+1 vip -- 31 vip    Can add s
+1 wac -- 31 wac    Can add s
+1 duf -- 30 duf
+1 dut -- 30 dut
+1 eun -- 29 eun
+1 kaz -- 29 kaz
+1 kru -- 29 kru
+1 sog -- 29 sog    Can add s
+1 gub -- 28 gub    Can add s
+1 jad -- 28 jad
+1 jow -- 28 jow    Can add s
+1 kaf -- 28 kaf    Can add s
+1 utr -- 28 utr
+1 yog -- 28 yog
+1 jaz -- 27 jaz
+1 cig -- 26 cig    Can add s
+1 egr -- 26 egr
+1 fud -- 26 fud    Can add s
+1 idl -- 26 idl
+1 rui -- 26 rui
+1 vog -- 26 vog    Can add s
+1 wur -- 25 wur
+1 zep -- 25 zep    Can add s
+1 daz -- 24 daz
+1 doz -- 24 doz
+1 kwa -- 24 kwa
+1 yod -- 24 yod    Can add s
+1 aln -- 23 aln
+1 cni -- 23 cni
+1 mep -- 23 mep
+1 opu -- 23 opu    Can add s
+1 pui -- 23 pui    Can add s
+1 elb -- 22 elb
+1 feo -- 22 feo
+1 heu -- 22 heu
+1 pem -- 22 pem
+1 tek -- 22 tek
+1 aec -- 21 aec
+1 jot -- 21 jot    Can add s
+1 kod -- 21 kod
+1 koh -- 21 koh
+1 eav -- 20 eav
+1 euh -- 20 euh
+1 jem -- 20 jem
+1 lyt -- 20 lyt
+1 ugl -- 20 ugl
+1 asb -- 19 asb
+1 fiv -- 19 fiv
+1 jeh -- 19 jeh
+1 kik -- 19 kik
+1 sva -- 19 sva
+1 ziz -- 19 ziz
+1 zoi -- 19 zoi
+1 bij -- 18 bij
+1 etr -- 18 etr
+1 jef -- 18 jef
+1 jiv -- 18 jiv
+1 mcc -- 18 mcc
+1 rhu -- 18 rhu    Can add s
+1 zom -- 18 zom
+1 yir -- 17 yir
+1 zoe -- 17 zoe
+1 arv -- 16 arv
+1 awh -- 16 awh
+1 bde -- 16 bde
+1 poz -- 16 poz
+1 woa -- 16 woa
+1 bhu -- 15 bhu
+1 byp -- 15 byp
+1 dwe -- 15 dwe
+1 kec -- 15 kec
+1 owr -- 15 owr
+1 suz -- 15 suz
+1 yob -- 15 yob    Can add s
+1 guz -- 14 guz
+1 luf -- 14 luf
+1 peu -- 14 peu
+1 pez -- 14 pez
+1 pif -- 14 pif
+1 piv -- 14 piv
+1 roz -- 14 roz
+1 soz -- 14 soz
+1 vad -- 14 vad
+1 avu -- 13 avu
+1 fub -- 13 fub    Can add s
+1 haj -- 13 haj
+1 phu -- 13 phu
+1 saa -- 13 saa
+1 unz -- 13 unz
+1 vug -- 13 vug    Can add s
+1 yug -- 13 yug    Can add s
+1 zwi -- 13 zwi
+1 buh -- 12 buh
+1 evu -- 12 evu
+1 goy -- 12 goy    Can add s
+1 joa -- 12 joa
+1 liz -- 12 liz
+1 luv -- 12 luv    Can add s
+1 mcg -- 12 mcg
+1 naa -- 12 naa
+1 ouv -- 12 ouv
+1 wef -- 12 wef
+1 zib -- 12 zib
+1 aeq -- 11 aeq
+1 anl -- 11 anl
+1 arh -- 11 arh
+1 biu -- 11 biu
+1 ecb -- 11 ecb
+1 epl -- 11 epl
+1 gep -- 11 gep
+1 giu -- 11 giu
+1 jic -- 11 jic
+1 kag -- 11 kag
+1 koa -- 11 koa    Can add s
+1 kud -- 11 kud
+1 pob -- 11 pob    Can add s
+1 qab -- 11 qab
+1 vaw -- 11 vaw    Can add s
+1 yoh -- 11 yoh
+1 zad -- 11 zad
+1 zec -- 11 zec
+1 boz -- 10 boz
+1 cze -- 10 cze
+1 ixo -- 10 ixo
+1 joo -- 10 joo
+1 kaa -- 10 kaa    Can add s
+1 paa -- 10 paa    Can add s
+1 pya -- 10 pya    Can add s
+1 taa -- 10 taa
+1 taj -- 10 taj
+1 vav -- 10 vav    Can add s
+1 wod -- 10 wod
+1 wof -- 10 wof    Can add s
+1 yom -- 10 yom
+1 zhu -- 10 zhu
+1 abt -- 9 abt
+1 adp -- 9 adp
+1 doh -- 9 doh    Can add s
+1 faq -- 9 faq
+1 jed -- 9 jed
+1 kaj -- 9 kaj
+1 mih -- 9 mih
+1 wuz -- 9 wuz
+1 wyl -- 9 wyl
+1 yik -- 9 yik
+1 yoi -- 9 yoi
+1 alr -- 8 alr
+1 eub -- 8 eub
+1 geb -- 8 geb
+1 irv -- 8 irv
+1 mev -- 8 mev
+1 ogl -- 8 ogl
+1 sao -- 8 sao
+1 saz -- 8 saz
+1 sda -- 8 sda
+1 sze -- 8 sze
+1 tyt -- 8 tyt
+1 vix -- 8 vix
+1 wem -- 8 wem    Can add s
+1 yul -- 8 yul
+1 zul -- 8 zul
+1 abc -- 7 abc
+1 alw -- 7 alw
+1 bhe -- 7 bhe
+1 caz -- 7 caz
+1 ipr -- 7 ipr
+1 kyo -- 7 kyo
+1 orv -- 7 orv
+1 suo -- 7 suo
+1 syd -- 7 syd
+1 ulv -- 7 ulv
+1 vaj -- 7 vaj
+1 zou -- 7 zou
+1 avg -- 6 avg
+1 ayr -- 6 ayr
+1 faa -- 6 faa    Can add s
+1 fip -- 6 fip
+1 ghu -- 6 ghu
+1 gwy -- 6 gwy
+1 jiz -- 6 jiz
+1 kog -- 6 kog
+1 luz -- 6 luz
+1 noh -- 6 noh
+1 noz -- 6 noz
+1 okt -- 6 okt
+1 onf -- 6 onf
+1 qam -- 6 qam
+1 rym -- 6 rym
+1 siw -- 6 siw
+1 soh -- 6 soh    Can add s
+1 toq -- 6 toq
+1 tux -- 6 tux
+1 tyd -- 6 tyd
+1 vri -- 6 vri
+1 wex -- 6 wex
+1 yep -- 6 yep    Can add s
+1 yoo -- 6 yoo
+1 abk -- 5 abk
+1 aep -- 5 aep
+1 chh -- 5 chh
+1 cwt -- 5 cwt
+1 duh -- 5 duh
+1 eec -- 5 eec
+1 elr -- 5 elr
+1 eop -- 5 eop
+1 esn -- 5 esn    Can add s
+1 exr -- 5 exr
+1 fap -- 5 fap    Can add s
+1 foh -- 5 foh    Can add s
+1 grr -- 5 grr
+1 guv -- 5 guv    Can add s
+1 haq -- 5 haq
+1 jaq -- 5 jaq
+1 jja -- 5 jja
+1 jua -- 5 jua    Can add s
+1 kae -- 5 kae    Can add s
+1 kiv -- 5 kiv
+1 mib -- 5 mib    Can add s
+1 mij -- 5 mij
+1 myg -- 5 myg
+1 mym -- 5 mym
+1 ryp -- 5 ryp
+1 woc -- 5 woc
+1 xol -- 5 xol
+1 zun -- 5 zun
+1 adc -- 4 adc
+1 agt -- 4 agt
+1 aot -- 4 aot
+1 asg -- 4 asg
+1 crc -- 4 crc
+1 dze -- 4 dze
+1 dzh -- 4 dzh
+1 eji -- 4 eji
+1 emd -- 4 emd
+1 eoc -- 4 eoc
+1 fiq -- 4 fiq
+1 fob -- 4 fob    Can add s
+1 fuh -- 4 fuh
+1 hox -- 4 hox
+1 hsi -- 4 hsi
+1 ibr -- 4 ibr
+1 jeu -- 4 jeu
+1 kug -- 4 kug
+1 liu -- 4 liu
+1 mca -- 4 mca
+1 mts -- 4 mts
+1 mux -- 4 mux
+1 mwa -- 4 mwa
+1 niu -- 4 niu
+1 osn -- 4 osn
+1 pwn -- 4 pwn    Can add s
+1 saj -- 4 saj
+1 seo -- 4 seo
+1 smr -- 4 smr
+1 suu -- 4 suu    Can add s
+1 tiy -- 4 tiy
+1 weh -- 4 weh
+1 wys -- 4 wys    Can add s
+1 yex -- 4 yex
+1 yoy -- 4 yoy
+1 ysh -- 4 ysh
+1 yuz -- 4 yuz
+1 zoh -- 4 zoh
+1 zuz -- 4 zuz
+1 abv -- 3 abv
+1 aww -- 3 aww
+1 axs -- 3 axs
+1 bdl -- 3 bdl    Can add s
+1 bld -- 3 bld
+1 chk -- 3 chk
+1 cpu -- 3 cpu    Can add s
+1 cuy -- 3 cuy
+1 cwm -- 3 cwm    Can add s
+1 ebc -- 3 ebc
+1 efo -- 3 efo
+1 efr -- 3 efr
+1 egb -- 3 egb
+1 emf -- 3 emf    Can add s
+1 esd -- 3 esd
+1 etn -- 3 etn
+1 eyl -- 3 eyl
+1 frs -- 3 frs
+1 fui -- 3 fui
+1 gaj -- 3 gaj
+1 huy -- 3 huy
+1 hwy -- 3 hwy
+1 ivr -- 3 ivr
+1 jeg -- 3 jeg
+1 keu -- 3 keu
+1 kex -- 3 kex
+1 kje -- 3 kje
+1 mup -- 3 mup
+1 ooe -- 3 ooe
+1 owi -- 3 owi
+1 pss -- 3 pss
+1 puh -- 3 puh
+1 ryd -- 3 ryd
+1 scf -- 3 scf
+1 sij -- 3 sij
+1 tbs -- 3 tbs
+1 tzo -- 3 tzo
+1 uht -- 3 uht
+1 usw -- 3 usw
+1 utl -- 3 utl
+1 vut -- 3 vut
+1 waj -- 3 waj
+1 wep -- 3 wep
+1 whs -- 3 whs
+1 wye -- 3 wye    Can add s
+1 xvi -- 3 xvi
+1 yay -- 3 yay    Can add s
+1 yfe -- 3 yfe
+1 zuk -- 3 zuk
